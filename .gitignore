@@ -1,0 +1,4 @@
+node_modules/
+.env
+latest-digest.md
+_meta.json

@@ -1,0 +1,19 @@
+{
+  "x_accounts": [
+    { "handle": "RayDalio", "name": "Ray Dalio", "role": "桥水基金创始人" },
+    { "handle": "HowardMarksBook", "name": "Howard Marks", "role": "Oaktree 联合创始人" },
+    { "handle": "BillAckman", "name": "Bill Ackman", "role": "Pershing Square CEO" },
+    { "handle": "chamath", "name": "Chamath Palihapitiya", "role": "Social Capital CEO" },
+    { "handle": "CathieDWood", "name": "Cathie Wood", "role": "ARK Invest CEO" },
+    { "handle": "CliffordAsness", "name": "Cliff Asness", "role": "AQR 联合创始人" },
+    { "handle": "michaeljburry", "name": "Michael Burry", "role": "Scion Asset Management" },
+    { "handle": "RaoulGMI", "name": "Raoul Pal", "role": "Real Vision CEO" },
+    { "handle": "LukeGromen", "name": "Luke Gromen", "role": "FFTT 创始人" },
+    { "handle": "LynAldenContact", "name": "Lyn Alden", "role": "独立宏观研究" },
+    { "handle": "biancoresearch", "name": "Jim Bianco", "role": "Bianco Research" },
+    { "handle": "TruthGundlach", "name": "Jeff Gundlach", "role": "DoubleLine CEO" },
+    { "handle": "davidein", "name": "David Einhorn", "role": "Greenlight Capital" },
+    { "handle": "jimchanos", "name": "Jim Chanos", "role": "知名空头投资者" },
+    { "handle": "SDruckenmiller", "name": "Stanley Druckenmiller", "role": "Duquesne 创始人" }
+  ]
+}
