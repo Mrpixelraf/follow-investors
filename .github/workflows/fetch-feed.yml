@@ -2,7 +2,7 @@ name: Fetch Investor Tweets
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Every 6 hours
+    - cron: '30 8 * * *'  # Daily at 08:30 UTC (09:30 BST)
   workflow_dispatch: {}       # Manual trigger
 
 permissions:
