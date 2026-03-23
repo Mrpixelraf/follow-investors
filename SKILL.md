@@ -37,10 +37,8 @@ web_search("from:{handle} site:x.com", freshness="day")
 
 ### Step 4: 保存 & 输出
 
-1. 将生成的中文日报**同时写入** `~/.openclaw/workspace/skills/follow-investors/latest-digest.md`（覆盖旧文件）
+1. 将生成的中文日报**同时写入** `latest-digest.md`（覆盖旧文件，方便其他 agent 转发）
 2. 直接输出中文日报内容（stdout）。OpenClaw 负责投递到用户频道。
-
-> 保存文件是为了让小像素 agent 在 09:10 转发到投研社。
 
 ## 手动触发
 
