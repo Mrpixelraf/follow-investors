@@ -1,7 +1,91 @@
 {
-  "generatedAt": "2026-03-23T14:55:18.941Z",
+  "generatedAt": "2026-03-24T09:12:15.488Z",
   "lookbackHours": 48,
   "x": [
+    {
+      "source": "x",
+      "name": "Ray Dalio",
+      "handle": "RayDalio",
+      "role": "桥水基金创始人",
+      "bio": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
+      "tweets": [
+        {
+          "id": "2036181942786314319",
+          "text": "It is the rare dispute that is resolved to both parties' equal satisfaction. Imagine you are having an argument with your neighbor about a tree of theirs that has fallen onto your property. Who is responsible for its removal? Who owns the firewood? Who pays for the damage? While you might not be able to resolve the disagreement yourselves, the legal system has procedures and guidelines that allow it to determine what's true and what to do about it, and once it renders its judgment it's done, even if one of you didn't get what you wanted. That's just the way life is. #principleoftheday",
+          "createdAt": "2026-03-23T20:43:00.000Z",
+          "url": "https://x.com/RayDalio/status/2036181942786314319",
+          "likes": 390,
+          "retweets": 39,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036155500073721911",
+          "text": "I am at a stage in life where my main objective is to pass along to others the principles I have learned over the last 60 years that have helped me and that I think can help others. I believe that some of the most important investment principles I can pass along are about what an “All Weather Portfolio” is and how to build such a portfolio. I think these principles are especially valuable during risky times like now.\n\nAs always, I welcome your questions and thoughts.\n\nhttps://t.co/dlpfFwnxCb",
+          "createdAt": "2026-03-23T18:57:55.000Z",
+          "url": "https://x.com/RayDalio/status/2036155500073721911",
+          "likes": 2952,
+          "retweets": 204,
+          "replies": 176,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036094771144405319",
+          "text": "https://t.co/krgBEJX0m8",
+          "createdAt": "2026-03-23T14:56:36.000Z",
+          "url": "https://x.com/RayDalio/status/2036094771144405319",
+          "likes": 1954,
+          "retweets": 299,
+          "replies": 59,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Bill Ackman",
+      "handle": "BillAckman",
+      "role": "Pershing Square CEO",
+      "bio": "CEO Pershing Square, Co-trustee @PershingSqFdn",
+      "tweets": [
+        {
+          "id": "2036273411467444291",
+          "text": ".@GovPritzker you also owe this man and his family an apology. https://t.co/slZ19izvFi",
+          "createdAt": "2026-03-24T02:46:28.000Z",
+          "url": "https://x.com/BillAckman/status/2036273411467444291",
+          "likes": 2594,
+          "retweets": 317,
+          "replies": 49,
+          "isQuote": true,
+          "quotedTweetId": "2036186203448377639"
+        },
+        {
+          "id": "2036268203068780797",
+          "text": ".@GovPritzker you owe this man and his family an apology. https://t.co/qkcTgpc85X",
+          "createdAt": "2026-03-24T02:25:46.000Z",
+          "url": "https://x.com/BillAckman/status/2036268203068780797",
+          "likes": 5586,
+          "retweets": 700,
+          "replies": 88,
+          "isQuote": true,
+          "quotedTweetId": "2036174426979328366"
+        },
+        {
+          "id": "2036249576110170256",
+          "text": "I agree https://t.co/ESLQjrAPXk",
+          "createdAt": "2026-03-24T01:11:45.000Z",
+          "url": "https://x.com/BillAckman/status/2036249576110170256",
+          "likes": 811,
+          "retweets": 38,
+          "replies": 41,
+          "isQuote": true,
+          "quotedTweetId": "2036140329125241210"
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Chamath Palihapitiya",
@@ -10,68 +94,99 @@
       "bio": "God is in the details.",
       "tweets": [
         {
-          "id": "2035389919024365879",
-          "text": "💯 \n\nIgnore the Bond King at your own risk… https://t.co/6XZzQFELms",
-          "createdAt": "2026-03-21T16:15:47.000Z",
-          "url": "https://x.com/chamath/status/2035389919024365879",
-          "likes": 2038,
-          "retweets": 110,
-          "replies": 87,
-          "isQuote": true,
-          "quotedTweetId": "2035149195813036525"
-        },
-        {
-          "id": "2035388593670361284",
-          "text": "We all know what some feel uncomfortable saying:\n\nMost taxes are WASTED.\n\nThey are leaked and grifted into all kinds of programs that sound good on the surface. But that’s the lie that is told so politicians can take more of your earnings and dole it out to win votes and stay in power. \n\nBut it also turns out that people aren’t stupid and know the game. \n\nSo the states that admit this by breaking away from the hamster wheel of increased taxation are winning. While those who continue to try and sell the lie are losing. \n\nAt the limit, those losing states are leaking so much revenue that they will eventually lose so much tax revenue as to be effectively insolvent. \n\nRemember this data is just from 2023…we are in mid 2026 so another two years of this trend is already in the books.",
-          "createdAt": "2026-03-21T16:10:31.000Z",
-          "url": "https://x.com/chamath/status/2035388593670361284",
-          "likes": 7830,
-          "retweets": 1290,
-          "replies": 363,
+          "id": "2036290758978970024",
+          "text": "I think the concept of building a Software Factory is now a commonplace expectation. Yay. \n\nThe winner still isn’t clear but whoever does the best job reimagining the software development lifecycle in a world of agents, AI, expert knowledge, tribal knowledge and business expectations can build a really good and useful product for the world. \n\nIt’s early days but I think 8090’s Software Factory is on the right track.",
+          "createdAt": "2026-03-24T03:55:24.000Z",
+          "url": "https://x.com/chamath/status/2036290758978970024",
+          "likes": 350,
+          "retweets": 15,
+          "replies": 103,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035375960170881501",
-          "text": "Amazing analysis https://t.co/93NnDWVeOj",
-          "createdAt": "2026-03-21T15:20:19.000Z",
-          "url": "https://x.com/chamath/status/2035375960170881501",
-          "likes": 1752,
-          "retweets": 142,
-          "replies": 38,
+          "id": "2036130867626778982",
+          "text": "From my friends who are pilots:\n\n“We can and should deploy the ground tracking systems like Thales does in Europe, tied in with a central system that does the routing, and then controllers sit on top of the whole thing and watch for exceptions”\n\nIn other words, technology… https://t.co/gVM1zZSs5P",
+          "createdAt": "2026-03-23T17:20:02.000Z",
+          "url": "https://x.com/chamath/status/2036130867626778982",
+          "likes": 6420,
+          "retweets": 329,
+          "replies": 293,
           "isQuote": true,
-          "quotedTweetId": "2035348937775976505"
+          "quotedTweetId": "2036119859260531059"
+        },
+        {
+          "id": "2036121888502751727",
+          "text": "From the President…\n\nDon’t be a panican! https://t.co/aNSoEUNFGZ",
+          "createdAt": "2026-03-23T16:44:22.000Z",
+          "url": "https://x.com/chamath/status/2036121888502751727",
+          "likes": 3942,
+          "retweets": 418,
+          "replies": 303,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036118125851402403",
+          "text": "Huh?\n\nI’d like $5B pls. https://t.co/bOKnwhKaRW",
+          "createdAt": "2026-03-23T16:29:25.000Z",
+          "url": "https://x.com/chamath/status/2036118125851402403",
+          "likes": 1532,
+          "retweets": 49,
+          "replies": 148,
+          "isQuote": true,
+          "quotedTweetId": "2036043793968083192"
+        },
+        {
+          "id": "2036110017070588108",
+          "text": "Brant is the ideal customer: very smart, ambitious, curious yet demanding and exact! He’s been an early adopter and his feedback has made Software Factory better. \n\nIt’s exciting to help him and organizations like his succeed. \n\nMore generally, there are so many orgs who want to embrace AI in the right way - I think Software Factory is for them.",
+          "createdAt": "2026-03-23T15:57:11.000Z",
+          "url": "https://x.com/chamath/status/2036110017070588108",
+          "likes": 125,
+          "retweets": 15,
+          "replies": 16,
+          "isQuote": true,
+          "quotedTweetId": "2036106527992578304"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Michael Burry",
-      "handle": "michaeljburry",
-      "role": "Scion Asset Management",
-      "bio": "Official X account for Michael Burry, MD, called \"Cassandra\" by Warren Buffett. Now on Substack with the full story.",
+      "name": "Cliff Asness",
+      "handle": "CliffordAsness",
+      "role": "AQR 联合创始人",
+      "bio": "https://t.co/SqAanFKORB. https://t.co/NbcMFHWbR4. Chaotic good.",
       "tweets": [
         {
-          "id": "2035579695350096012",
-          "text": "I agree with Bill Ackman/Pershing Square. @BillAckman. \nThis is an important read for all interested in Fannie Mae and Freddie Mac. Treating shareholders fairly here is about much, much more than these two companies.\n\n“Accounting for the repayment of the SPS has other important implications. Namely, it is critically important that conservatorships respect the rule of law, in particular, the contractual terms of corporate instruments and the hierarchy of claims. Otherwise, no financial institution that gets into trouble will be able to raise rescue capital in the private markets.\n\nNotably, the treatment of F2 in conservatorship explains why Silicon Valley Bank and other recent large bank failures since the GFC were unable to raise private capital and avoid government intervention or a forced sale to J.P. Morgan. If the government with the stroke of a pen during conservatorship can at a whim wipe out common and preferred shareholders, no one is going to step in to try to save a financial institution that gets into trouble, and only the top few banks will be possible rescuers of big banks that fail.”\n$FNMA $FMCC",
-          "createdAt": "2026-03-22T04:49:53.000Z",
-          "url": "https://x.com/michaeljburry/status/2035579695350096012",
-          "likes": 970,
-          "retweets": 200,
-          "replies": 70,
+          "id": "2036149945875493269",
+          "text": "Because he’s evil, stupid, or crazy. And he ain’t stupid. https://t.co/saIsxFLgdT",
+          "createdAt": "2026-03-23T18:35:51.000Z",
+          "url": "https://x.com/CliffordAsness/status/2036149945875493269",
+          "likes": 82,
+          "retweets": 7,
+          "replies": 3,
           "isQuote": true,
-          "quotedTweetId": "2035566181914939853"
-        },
+          "quotedTweetId": "2036144583390748705"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Raoul Pal",
+      "handle": "RaoulGMI",
+      "role": "Real Vision CEO",
+      "bio": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru.",
+      "tweets": [
         {
-          "id": "2035404071092281694",
-          "text": "What really matters to the market and the US economy is not the Strait of Hormuz. https://t.co/XyFjpIPvVW",
-          "createdAt": "2026-03-21T17:12:01.000Z",
-          "url": "https://x.com/michaeljburry/status/2035404071092281694",
-          "likes": 1862,
-          "retweets": 245,
-          "replies": 136,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2036215916665393510",
+          "text": "The speed of @AnthropicAI is quite something.... literally a new   big product feature every few days. Wild. https://t.co/41aJEtLkcl",
+          "createdAt": "2026-03-23T22:58:00.000Z",
+          "url": "https://x.com/RaoulGMI/status/2036215916665393510",
+          "likes": 1180,
+          "retweets": 58,
+          "replies": 57,
+          "isQuote": true,
+          "quotedTweetId": "2036195789601374705"
         }
       ]
     },
@@ -83,96 +198,74 @@
       "bio": "Founder & President, Forest for the Trees (FFTT).  Author of \"The Mr. X Interviews, Volumes I & II.”  I never solicit via DM's.  RT not endorsements.",
       "tweets": [
         {
-          "id": "2035511316341776795",
-          "text": "…which means GCC and Israeli power plants will begin getting hit within 72 hours from this exact point in time.\n\n😳 https://t.co/RtWko7NOgm",
-          "createdAt": "2026-03-22T00:18:10.000Z",
-          "url": "https://x.com/LukeGromen/status/2035511316341776795",
-          "likes": 1746,
-          "retweets": 195,
-          "replies": 153,
+          "id": "2036116786916012450",
+          "text": "\"Who is your daddy, Gary?\" https://t.co/EJP2c6EOuK",
+          "createdAt": "2026-03-23T16:24:05.000Z",
+          "url": "https://x.com/LukeGromen/status/2036116786916012450",
+          "likes": 541,
+          "retweets": 41,
+          "replies": 29,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035453553972486483",
-          "text": "Many commentators on Iran war have seemingly not thought any further ahead than “China is hurt most by Hormuz closing”\n\nBelow is just one small example of why that view is so wrong 👇 https://t.co/8EsrHROCSf",
-          "createdAt": "2026-03-21T20:28:38.000Z",
-          "url": "https://x.com/LukeGromen/status/2035453553972486483",
-          "likes": 741,
-          "retweets": 85,
-          "replies": 45,
-          "isQuote": true,
-          "quotedTweetId": "2035317584502120757"
+          "id": "2036100664732811754",
+          "text": "LT USTs are now a \"risk-on\" asset: 10y UST yields UP on risk-off, DOWN on risk-on.\n\nThis is the price action you would expect when 37% of net issuance of UST notes &amp; bonds since 2022 have been bought by \"Cayman Islands\" if \"Caymans\" meant \"levered US hedge fund UST basis trade.\" https://t.co/1yOFjZ9uAL",
+          "createdAt": "2026-03-23T15:20:02.000Z",
+          "url": "https://x.com/LukeGromen/status/2036100664732811754",
+          "likes": 446,
+          "retweets": 51,
+          "replies": 27,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
     {
       "source": "x",
-      "name": "Jim Bianco",
-      "handle": "biancoresearch",
-      "role": "Bianco Research",
-      "bio": "Macro investment research at https://t.co/hQqAza8GGP\n\nOur total return index is at https://t.co/vta9eqevnU\nThe ETF WTBN tracks our Index.\n\nbiancoresearch.eth",
+      "name": "Jeff Gundlach",
+      "handle": "TruthGundlach",
+      "role": "DoubleLine CEO",
+      "bio": "Bills fan. Art fan. Truth fan. DoubleLine Founder.",
       "tweets": [
         {
-          "id": "2035801102852272319",
-          "text": "3/4\n\nThat is only half the equation. A supply shock hurts growth, but it also raises inflation, so the real question is which side dominates.\n\nIn 2022, inflation rose more than real growth fell: the blue CPI line and arrow moved sharply higher while the green real-GDP bars and arrow moved modestly lower. The bottom panel shows the Fed’s answer: hikes, not cuts, as the federal funds rate moved from near zero in early 2022 to above 4% by year-end 2022.\n\nWhy? When inflation rises faster than growth falls, nominal growth (real GDP plus inflation) rises. If today’s oil shock does the same thing as 2022, the correct takeaway is not automatic cuts. It is possible that the Fed may have to stand pat or even consider hiking.",
-          "createdAt": "2026-03-22T19:29:40.000Z",
-          "url": "https://x.com/biancoresearch/status/2035801102852272319",
-          "likes": 74,
-          "retweets": 7,
-          "replies": 9,
+          "id": "2036305833961923040",
+          "text": "Bloomberg:\n\nMoody’s ratings lowered its assessment of FS KKR Capital Corp to Ba1, one level into junk, because of what it described as “continuing asset quality challenges”.",
+          "createdAt": "2026-03-24T04:55:18.000Z",
+          "url": "https://x.com/TruthGundlach/status/2036305833961923040",
+          "likes": 253,
+          "retweets": 31,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035801100406935901",
-          "text": "2/4\n\nThe immediate pushback is familiar: this “supply shock” will hurt real growth, so the Fed should cut rates. \n\nThis well-known economist has been making exactly that argument. https://t.co/mON9BBqWX2",
-          "createdAt": "2026-03-22T19:29:40.000Z",
-          "url": "https://x.com/biancoresearch/status/2035801100406935901",
-          "likes": 72,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2035801098024608196",
-          "text": "1/4\n\nYesterday I posted the thread below arguing that the market is repricing an inflation shock, not a recession scare.\n\n10-year yields are rising, bond volatility is exploding, inflation expectations are jumping, and Fed pricing has swung from cuts toward hikes.\n\nFollow up 🧵 https://t.co/TtIVfhyAjE",
-          "createdAt": "2026-03-22T19:29:39.000Z",
-          "url": "https://x.com/biancoresearch/status/2035801098024608196",
-          "likes": 338,
-          "retweets": 46,
-          "replies": 36,
-          "isQuote": true,
-          "quotedTweetId": "2035438163079119347"
-        },
-        {
-          "id": "2035773728014172362",
-          "text": "Trump yesterday begins:\n\nIf Iran doesn't FULLY OPEN, WITHOUT THREAT, the Strait of Hormuz, within 48 hours from this exact point in time ...\n----\nThe \"exact point in time\" he posted this was 7:44 PM ET, Sat March 21.\n\nSo, does the bombing begin at 7:45 PM ET Monday, March 23??? https://t.co/DGcPe7ErSk",
-          "createdAt": "2026-03-22T17:40:54.000Z",
-          "url": "https://x.com/biancoresearch/status/2035773728014172362",
-          "likes": 337,
+          "id": "2036238672341917865",
+          "text": "Of course assets would have to be pledged as collateral for any borrowings to meet redemptions, under this thought experiment.\n\nDoubtful the lenders would accept anything other than the “best” collateral.\n\nThink about it.",
+          "createdAt": "2026-03-24T00:28:25.000Z",
+          "url": "https://x.com/TruthGundlach/status/2036238672341917865",
+          "likes": 297,
           "retweets": 28,
-          "replies": 80,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2035527444598497577",
-          "text": "Iran is not backing down https://t.co/twDodkNR93",
-          "createdAt": "2026-03-22T01:22:15.000Z",
-          "url": "https://x.com/biancoresearch/status/2035527444598497577",
-          "likes": 446,
-          "retweets": 54,
-          "replies": 133,
-          "isQuote": true,
-          "quotedTweetId": "2035525345412088260"
+          "id": "2036231956539777482",
+          "text": "A leveraged fund says it has enough liquidity to meet 5% redemptions each quarter for the next year without selling a single position or asset.\n\nIs “liquidity” a euphemism for “borrowing capacity” here?\n\nIf so, just more leverage. \n\nWhoopsie!",
+          "createdAt": "2026-03-24T00:01:44.000Z",
+          "url": "https://x.com/TruthGundlach/status/2036231956539777482",
+          "likes": 1003,
+          "retweets": 102,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xInvestors": 4,
-    "totalTweets": 12
+    "xInvestors": 7,
+    "totalTweets": 18
   }
 }
