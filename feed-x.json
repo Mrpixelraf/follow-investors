@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-25T09:12:21.415Z",
+  "generatedAt": "2026-03-26T09:31:24.179Z",
   "lookbackHours": 48,
   "x": [
     {
@@ -10,37 +10,46 @@
       "bio": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
       "tweets": [
         {
-          "id": "2036516875585077311",
-          "text": "Have a conversation with Digital Ray about an All Weather portfolio now: https://t.co/aGk1cHNA5N\n\nhttps://t.co/5XEk60Xt1i https://t.co/JVRD1BtKzR",
-          "createdAt": "2026-03-24T18:53:54.000Z",
-          "url": "https://x.com/RayDalio/status/2036516875585077311",
-          "likes": 236,
-          "retweets": 31,
-          "replies": 18,
+          "id": "2036861173484683511",
+          "text": "Whenever there is a dispute, both parties are required to have equal levels of integrity, to be open-minded and assertive, and to be equally considerate. The judges must hold the parties to the same standards and provide feedback consistent with these standards. I have often seen cases in which the feedback wasn't appropriately balanced for various reasons (to hold the stronger performer to a higher standard, to spread the blame). This is a mistake. The person in the wrong needs to receive the strongest message. Not operating this way could lead them to believe that the problem wasn't caused by them, or was caused by both parties equally. Of course, the message should be conveyed calmly and clearly rather than emotionally to maximize its effectiveness. #principleoftheday",
+          "createdAt": "2026-03-25T17:42:01.000Z",
+          "url": "https://x.com/RayDalio/status/2036861173484683511",
+          "likes": 391,
+          "retweets": 51,
+          "replies": 35,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2036801152314929504",
+          "text": "One of the most important lessons I’ve learned is to distinguish between what you can control and what you can’t.\n\nYou’ll lead a much happier life if you’re able to focus your energy on the things you can influence — like how you treat others — and also learn how to adapt well to everything else.\n\nI’ve found that this perspective has provided me with a lot of equanimity.",
+          "createdAt": "2026-03-25T13:43:31.000Z",
+          "url": "https://x.com/RayDalio/status/2036801152314929504",
+          "likes": 489,
+          "retweets": 58,
+          "replies": 32,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Bill Ackman",
+      "handle": "BillAckman",
+      "role": "Pershing Square CEO",
+      "bio": "CEO Pershing Square, Co-trustee @PershingSqFdn",
+      "tweets": [
+        {
+          "id": "2036961036209725665",
+          "text": "Very good questions for @Harvard that deserve answers. https://t.co/Qh5hfn6No5",
+          "createdAt": "2026-03-26T00:18:50.000Z",
+          "url": "https://x.com/BillAckman/status/2036961036209725665",
+          "likes": 1974,
+          "retweets": 187,
+          "replies": 78,
           "isQuote": true,
-          "quotedTweetId": "2036094771144405319"
-        },
-        {
-          "id": "2036492607862284449",
-          "text": "After studying over 500 years of history, I’ve found there are really only three things you need to do to build a healthy society.\n\nFirst, educate your young people well—not just to be capable, but to be civil. If you have capable, civil people in a productive society, that’s a big part of the battle. Second, the finances must be sound: earn more than you spend and have more assets than liabilities. And third, don't get into a war—internally or externally.\n\nIf you can do those three things, you can have a prosperous, self-reinforcing society.",
-          "createdAt": "2026-03-24T17:17:28.000Z",
-          "url": "https://x.com/RayDalio/status/2036492607862284449",
-          "likes": 1290,
-          "retweets": 254,
-          "replies": 97,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2036446607550333133",
-          "text": "To succeed at investing, you need to have a well-throughout, ideally back-tested, game-plan that you execute, rather than make decisions spontaneously.  To build a well-tested game-plan, start by looking at all the big events that have happened before, because, if it happened before, you should assume it will happen again (unless you can say why you're confident it won't). Almost everything that you will encounter has happened before many times in slightly different versions, so if you have a game plan for dealing with all of those you will be in pretty good shape.  Also, you will find that having a well-tested game-plan to hold onto during the turbulent times is extremely helpful, not only because your decision- making will be much better but because it will also give you a less stressful and therefore healthier life.  Building such a game-plan also produces great learning experiences because it leads you to study cause-effect relationships, and learning is enjoyable as well as crucial to success. So, it will make you happy as well as effective. It was certainly key to the success and joy I had being an investor.",
-          "createdAt": "2026-03-24T14:14:41.000Z",
-          "url": "https://x.com/RayDalio/status/2036446607550333133",
-          "likes": 762,
-          "retweets": 113,
-          "replies": 68,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2036939984259739957"
         }
       ]
     },
@@ -52,68 +61,59 @@
       "bio": "God is in the details.",
       "tweets": [
         {
-          "id": "2036626220994158745",
-          "text": "https://t.co/zaKDIRMbCi",
-          "createdAt": "2026-03-25T02:08:24.000Z",
-          "url": "https://x.com/chamath/status/2036626220994158745",
-          "likes": 70,
-          "retweets": 5,
-          "replies": 14,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2036895742858846486",
+          "text": "This is, by far, the best car I’ve ever owned. https://t.co/5mSskozOUX",
+          "createdAt": "2026-03-25T19:59:23.000Z",
+          "url": "https://x.com/chamath/status/2036895742858846486",
+          "likes": 7006,
+          "retweets": 730,
+          "replies": 501,
+          "isQuote": true,
+          "quotedTweetId": "2036886251262140816"
         },
         {
-          "id": "2036626219136086320",
-          "text": "“China is conducting a vast undersea mapping and monitoring operation across the Pacific, Indian and Arctic oceans, building detailed knowledge of marine conditions that naval experts say would be crucial for waging submarine warfare against the United States and its allies.”\n\nWe need to map our oceans. ASAP.",
-          "createdAt": "2026-03-25T02:08:23.000Z",
-          "url": "https://x.com/chamath/status/2036626219136086320",
+          "id": "2036841590124380357",
+          "text": "Amazing to see. Congrats. https://t.co/6b609dIBT2",
+          "createdAt": "2026-03-25T16:24:12.000Z",
+          "url": "https://x.com/chamath/status/2036841590124380357",
           "likes": 1569,
-          "retweets": 146,
-          "replies": 224,
+          "retweets": 67,
+          "replies": 80,
+          "isQuote": true,
+          "quotedTweetId": "2036832028960923917"
+        },
+        {
+          "id": "2036840270923502012",
+          "text": "Some weeks there are major improvements, some weeks there are minor ones but the goal is to always improve even the small things as we work on the big things. \n\nLots of things coming in the next few weeks. Team is stretched thin but they are getting in the zone. \n\nLet us know if you need us to improve or add something faster than what we are planning to do on our roadmap.",
+          "createdAt": "2026-03-25T16:18:57.000Z",
+          "url": "https://x.com/chamath/status/2036840270923502012",
+          "likes": 112,
+          "retweets": 7,
+          "replies": 17,
+          "isQuote": true,
+          "quotedTweetId": "2036494495987146811"
+        },
+        {
+          "id": "2036835733256995270",
+          "text": "The China AI Complex is much more nuanced than what it appears on the surface (open source/open weights, cheaper/faster/better value props) when you factor in the CCP and their long term objectives. \n\nAlso, I mostly stopped hearing about Manus after OpenClaw. Do folks use this? If so, for what?",
+          "createdAt": "2026-03-25T16:00:56.000Z",
+          "url": "https://x.com/chamath/status/2036835733256995270",
+          "likes": 263,
+          "retweets": 16,
+          "replies": 43,
+          "isQuote": true,
+          "quotedTweetId": "2036774295154958664"
+        },
+        {
+          "id": "2036816219853205584",
+          "text": "Reading X in the morning and it’s like an avalanche of progress has happened overnight…",
+          "createdAt": "2026-03-25T14:43:23.000Z",
+          "url": "https://x.com/chamath/status/2036816219853205584",
+          "likes": 161,
+          "retweets": 6,
+          "replies": 15,
           "isQuote": false,
           "quotedTweetId": null
-        },
-        {
-          "id": "2036533486874665090",
-          "text": "Software Factory customers thus far:\n\n- Massive governmental organizations\n\n- Public companies in US and Europe\n\n- Companies with millions, billions, tens of billions and hundreds of billions in revenue\n\n- Companies with thousands, hundreds of thousands and millions of patients/clients/customers\n\n- Enterprises in highly regulated markets \n\n- Enterprises in unregulated markets",
-          "createdAt": "2026-03-24T19:59:54.000Z",
-          "url": "https://x.com/chamath/status/2036533486874665090",
-          "likes": 148,
-          "retweets": 7,
-          "replies": 46,
-          "isQuote": true,
-          "quotedTweetId": "2036515394706415944"
-        },
-        {
-          "id": "2036499165384155206",
-          "text": "Software Factory  allows every company to realize Guillermo’s reality. https://t.co/YtbevxyQMS",
-          "createdAt": "2026-03-24T17:43:32.000Z",
-          "url": "https://x.com/chamath/status/2036499165384155206",
-          "likes": 147,
-          "retweets": 10,
-          "replies": 21,
-          "isQuote": true,
-          "quotedTweetId": "2036447879985037495"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cathie Wood",
-      "handle": "CathieDWood",
-      "role": "ARK Invest CEO",
-      "bio": "Founder, CEO and CIO @ARKinvest. Thematic portfolio manager for disruptive innovation, mom, economist, and women's advocate. Disclosure: https://t.co/chxRD4oWOd",
-      "tweets": [
-        {
-          "id": "2036491499039498376",
-          "text": "Describing Shopify’s Sidekick and Square’s ManagerBot, @varshikaARK and @GrousARK highlight the reason AI will cause an entrepreneurial explosion—in this case, in retail—during the next five to ten years. The barriers to new business entry are collapsing! https://t.co/EKbBlX7LSf",
-          "createdAt": "2026-03-24T17:13:04.000Z",
-          "url": "https://x.com/CathieDWood/status/2036491499039498376",
-          "likes": 91,
-          "retweets": 16,
-          "replies": 19,
-          "isQuote": true,
-          "quotedTweetId": "2036435872350867496"
         }
       ]
     },
@@ -125,35 +125,15 @@
       "bio": "https://t.co/SqAanFKORB. https://t.co/NbcMFHWbR4. Chaotic good.",
       "tweets": [
         {
-          "id": "2036567469654229310",
-          "text": "Ignoring preexisting conditions is not insurance and people shouldn’t pretend it is.\n\nMyth #3\n\nhttps://t.co/vlKp7E5lKj https://t.co/17hZ19TCfP",
-          "createdAt": "2026-03-24T22:14:57.000Z",
-          "url": "https://x.com/CliffordAsness/status/2036567469654229310",
-          "likes": 203,
-          "retweets": 15,
-          "replies": 16,
-          "isQuote": true,
-          "quotedTweetId": "2036145047511375890"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Raoul Pal",
-      "handle": "RaoulGMI",
-      "role": "Real Vision CEO",
-      "bio": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru.",
-      "tweets": [
-        {
-          "id": "2036448310676856834",
-          "text": "One week left and the playing field is wide open... give it your best shot https://t.co/eUWftywxMs",
-          "createdAt": "2026-03-24T14:21:27.000Z",
-          "url": "https://x.com/RaoulGMI/status/2036448310676856834",
-          "likes": 74,
-          "retweets": 2,
-          "replies": 13,
-          "isQuote": true,
-          "quotedTweetId": "2036445570596814858"
+          "id": "2036884968979488967",
+          "text": "“I Did Not Predict What Is Going on in Privates”\n\nAnd to be clear there was no double entendre intended. https://t.co/2zLO0Y2EPS",
+          "createdAt": "2026-03-25T19:16:34.000Z",
+          "url": "https://x.com/CliffordAsness/status/2036884968979488967",
+          "likes": 241,
+          "retweets": 26,
+          "replies": 17,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -165,90 +145,59 @@
       "bio": "Founder & President, Forest for the Trees (FFTT).  Author of \"The Mr. X Interviews, Volumes I & II.”  I never solicit via DM's.  RT not endorsements.",
       "tweets": [
         {
-          "id": "2036558491209306209",
-          "text": "One of the charms of Trump is that he will sometimes tell you what is really happening if you read between the lines.\n\nFor example, here he all but told us the real reason Hormuz isn't open yet.\n\nI would think interception reaction times in the strait would likely be much shorter https://t.co/klDDKGMBh8",
-          "createdAt": "2026-03-24T21:39:16.000Z",
-          "url": "https://x.com/LukeGromen/status/2036558491209306209",
-          "likes": 715,
-          "retweets": 59,
-          "replies": 52,
-          "isQuote": true,
-          "quotedTweetId": "2036514098943586614"
-        },
-        {
-          "id": "2036542119033098560",
-          "text": "2/ Here’s a link to my YouTube channel; you can subscribe here to see this and future bi-weekly 5-10 minute update videos: https://t.co/6TMV9DhlH6",
-          "createdAt": "2026-03-24T20:34:12.000Z",
-          "url": "https://x.com/LukeGromen/status/2036542119033098560",
-          "likes": 67,
-          "retweets": 6,
-          "replies": 4,
+          "id": "2036918160050233633",
+          "text": "2/ source https://t.co/AsEIiGBLPu",
+          "createdAt": "2026-03-25T21:28:28.000Z",
+          "url": "https://x.com/LukeGromen/status/2036918160050233633",
+          "likes": 296,
+          "retweets": 39,
+          "replies": 16,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036541978079285658",
-          "text": "1/ I’m recording a 5-10 min YouTube video to be released later this week; pls drop some questions below &amp; I’ll touch on as many as I can on a best efforts basis.  Thx!    (Also, pls feel free to subscribe to my YouTube channel.)",
-          "createdAt": "2026-03-24T20:33:39.000Z",
-          "url": "https://x.com/LukeGromen/status/2036541978079285658",
-          "likes": 294,
-          "retweets": 6,
-          "replies": 111,
+          "id": "2036917642418655716",
+          "text": "“Many of the 13 military bases in the region used by American troops are all but uninhabitable, with the ones in Kuwait, which is next door to Iran, suffering perhaps the most damage.”\n\n-NYT just now\n\nFirst MSM admission I’ve seen of this fact",
+          "createdAt": "2026-03-25T21:26:24.000Z",
+          "url": "https://x.com/LukeGromen/status/2036917642418655716",
+          "likes": 8431,
+          "retweets": 1942,
+          "replies": 219,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036496578999939215",
-          "text": "Update:\n\n10y UST yields (blue, RS1)\nUSDJPY*oil (red, LS)\nUSDCNY*oil (green, RS2)\n\nHormuz is still closed; China still has several years of oil inventories; 10y UST yields are ~20-30 bps from triggering a US &amp; global debt spiral.  What happens first?\n\nLet's watch. https://t.co/ixdOHnatCg",
-          "createdAt": "2026-03-24T17:33:15.000Z",
-          "url": "https://x.com/LukeGromen/status/2036496578999939215",
-          "likes": 783,
-          "retweets": 127,
-          "replies": 67,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lyn Alden",
-      "handle": "LynAldenContact",
-      "role": "独立宏观研究",
-      "bio": "Author of Broken Money & The Stolguard Incident. Investor with a blended engineering/finance background. GP @egodeathcapital. Director at Bakkt & @Swan.",
-      "tweets": [
-        {
-          "id": "2036631588528599359",
-          "text": "So I think this own-country monetization weight reduces the issue to some extent.\n\nSolid proposal from @nikitabier or whoever originated it, imo.",
-          "createdAt": "2026-03-25T02:29:44.000Z",
-          "url": "https://x.com/LynAldenContact/status/2036631588528599359",
-          "likes": 82,
-          "retweets": 1,
-          "replies": 5,
+          "id": "2036900450679587010",
+          "text": "2019 book that predicted the “missiles + drones &gt; naval ships” dynamic we are watching play out in real time in Hormuz.\n\nMartyanov’s warnings apparently fell on deaf ears in DC unfortunately. https://t.co/4nsMkPDhTm",
+          "createdAt": "2026-03-25T20:18:05.000Z",
+          "url": "https://x.com/LukeGromen/status/2036900450679587010",
+          "likes": 461,
+          "retweets": 78,
+          "replies": 35,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036629552160465182",
-          "text": "I don’t think pay-per-impressions is a great model anyway, since it incentivizes sensationalism.\n\nThat’s part of why I’ve never taken a moment to turn on monetization for this app, despite my reach. https://t.co/kzYEtN31G1",
-          "createdAt": "2026-03-25T02:21:38.000Z",
-          "url": "https://x.com/LynAldenContact/status/2036629552160465182",
-          "likes": 700,
-          "retweets": 23,
-          "replies": 65,
-          "isQuote": true,
-          "quotedTweetId": "2036622488285888756"
+          "id": "2036886088866775264",
+          "text": "https://t.co/AU1ozh8Vsi",
+          "createdAt": "2026-03-25T19:21:01.000Z",
+          "url": "https://x.com/LukeGromen/status/2036886088866775264",
+          "likes": 639,
+          "retweets": 58,
+          "replies": 33,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2036578393202799053",
-          "text": "In practice, the wealthy nations including Taiwan can scramble to bid high prices for unencumbered energy and materials to fill some/all of their gap, which will likely leave the worst shortages with the poorest countries. https://t.co/0x64yj4fhG",
-          "createdAt": "2026-03-24T22:58:21.000Z",
-          "url": "https://x.com/LynAldenContact/status/2036578393202799053",
-          "likes": 682,
+          "id": "2036877347509485678",
+          "text": "Second straight ugly UST auction today https://t.co/nIWqAXMwEG",
+          "createdAt": "2026-03-25T18:46:17.000Z",
+          "url": "https://x.com/LukeGromen/status/2036877347509485678",
+          "likes": 567,
           "retweets": 61,
-          "replies": 48,
+          "replies": 25,
           "isQuote": true,
-          "quotedTweetId": "2036562191617564995"
+          "quotedTweetId": "2035006389353934922"
         }
       ]
     },
@@ -260,65 +209,65 @@
       "bio": "Macro investment research at https://t.co/hQqAza8GGP\n\nOur total return index is at https://t.co/vta9eqevnU\nThe ETF WTBN tracks our Index.\n\nbiancoresearch.eth",
       "tweets": [
         {
-          "id": "2036685003036447121",
-          "text": "First time ever!\n\nNCAA Tournament Sunday early primetime window (March 22): 19.7 million viewers\n\n2026 Oscars the week before (March 15): 17.9 million\n\nThe country is more interested in St. John’s/Kansas then Hollywood. https://t.co/lhfWczVnAe",
-          "createdAt": "2026-03-25T06:01:59.000Z",
-          "url": "https://x.com/biancoresearch/status/2036685003036447121",
-          "likes": 44,
-          "retweets": 3,
-          "replies": 4,
+          "id": "2036927453617353002",
+          "text": "By morning? https://t.co/ryBNFLsLlP",
+          "createdAt": "2026-03-25T22:05:23.000Z",
+          "url": "https://x.com/biancoresearch/status/2036927453617353002",
+          "likes": 152,
+          "retweets": 9,
+          "replies": 43,
           "isQuote": true,
-          "quotedTweetId": "2036549837743641034"
+          "quotedTweetId": "2036889670571663652"
         },
         {
-          "id": "2036626911464698011",
-          "text": "And Trump just explained why there’s virtually no commercial shipping through the Strait of Hormuz right now.\n\nThe Lincoln is ~600 miles off Iran’s coast. That gives it several minutes of warning time, plus an entire air wing, three destroyers, a submarine, and layered missile defenses.\n\nOpening the Strait is much harder. You’d need to send destroyers (or escorts) through waters that are often just a few miles from the Iranian coast. There, ships get only seconds — not minutes — to react to incoming missiles and drones.\n\nCommercial operators won’t move until the US Navy proves it’s safe. Until then, they’re sitting tight unless a deal is struck.",
-          "createdAt": "2026-03-25T02:11:09.000Z",
-          "url": "https://x.com/biancoresearch/status/2036626911464698011",
-          "likes": 821,
-          "retweets": 80,
-          "replies": 49,
-          "isQuote": true,
-          "quotedTweetId": "2036512664453533746"
-        },
-        {
-          "id": "2036574980289470527",
-          "text": "The day the war started (Feb 28), Fed fund futures were pricing in 2.5 rate Fed CUTS for 2026.\n\nNow they are pricing in 0.2 of a Fed rate HIKE for the rest of the year. https://t.co/kZikoSqzqz",
-          "createdAt": "2026-03-24T22:44:47.000Z",
-          "url": "https://x.com/biancoresearch/status/2036574980289470527",
-          "likes": 175,
-          "retweets": 27,
-          "replies": 27,
+          "id": "2036867997256827304",
+          "text": "*USPS TO IMPOSE 8% FUEL SURCHARGE ON PACKAGES: WSJ",
+          "createdAt": "2026-03-25T18:09:08.000Z",
+          "url": "https://x.com/biancoresearch/status/2036867997256827304",
+          "likes": 349,
+          "retweets": 79,
+          "replies": 39,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036572321494999194",
-          "text": "Tick chart starting Friday afternoon.\n10-year yield (white)\nNearby WTI crude oil futures (blue)\n\nIn a crisis, all correlations go to 1. https://t.co/0ubKfHkt9Q",
-          "createdAt": "2026-03-24T22:34:13.000Z",
-          "url": "https://x.com/biancoresearch/status/2036572321494999194",
-          "likes": 111,
-          "retweets": 17,
-          "replies": 15,
+          "id": "2036828516986364013",
+          "text": "Six of the sweet 16 teams are Big 10 teams.\n\nWhat is the national response to this?\n\nTo scream college sports are broken and propose legislation to fix it.\n\n😆\n\nhttps://t.co/bvhr7pH9nq https://t.co/lbNmdF5Oyj",
+          "createdAt": "2026-03-25T15:32:15.000Z",
+          "url": "https://x.com/biancoresearch/status/2036828516986364013",
+          "likes": 31,
+          "retweets": 2,
+          "replies": 14,
+          "isQuote": true,
+          "quotedTweetId": "2035911733953585365"
+        },
+        {
+          "id": "2036779286972322068",
+          "text": "The national average of gasoline prices is now up exactly $1.00 (34%) since the war began 25 days ago. https://t.co/8U1SgYsLux",
+          "createdAt": "2026-03-25T12:16:38.000Z",
+          "url": "https://x.com/biancoresearch/status/2036779286972322068",
+          "likes": 265,
+          "retweets": 56,
+          "replies": 47,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036553423215382744",
-          "text": "https://t.co/ggC6AuaxGr https://t.co/gAeYz1BXIv",
-          "createdAt": "2026-03-24T21:19:08.000Z",
-          "url": "https://x.com/biancoresearch/status/2036553423215382744",
-          "likes": 127,
-          "retweets": 23,
-          "replies": 22,
-          "isQuote": true,
-          "quotedTweetId": "2036543365374787973"
+          "id": "2036552159807021386",
+          "text": "Crude Oil reaction https://t.co/1yepgA9JPc",
+          "createdAt": "2026-03-24T21:14:06.000Z",
+          "url": "https://x.com/biancoresearch/status/2036552159807021386",
+          "likes": 71,
+          "retweets": 1,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xInvestors": 8,
-    "totalTweets": 22
+    "xInvestors": 6,
+    "totalTweets": 19
   }
 }
