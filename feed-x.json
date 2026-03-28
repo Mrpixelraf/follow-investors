@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-27T09:11:21.699Z",
+  "generatedAt": "2026-03-28T09:01:28.779Z",
   "lookbackHours": 48,
   "x": [
     {
@@ -10,37 +10,35 @@
       "bio": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
       "tweets": [
         {
-          "id": "2037257707460476947",
-          "text": "My point is that you can significantly raise your probabilities of making the right decisions by open-mindedly triangulating with believable people. Even in a terrible situation, you can still raise your probabilities of making the right decisions by open-mindedly triangulating with believable people. #principleoftheday",
-          "createdAt": "2026-03-26T19:57:42.000Z",
-          "url": "https://x.com/RayDalio/status/2037257707460476947",
-          "likes": 554,
-          "retweets": 71,
-          "replies": 47,
+          "id": "2037498366939001310",
+          "text": "It's important to view individual decisions in the broadest possible context. For example, if the Responsible Party being challenged has a vision, and the decision being disputed involves a small detail of that overall vision, the decision needs to be debated and evaluated within the context of that larger vision. #principleoftheday",
+          "createdAt": "2026-03-27T11:54:00.000Z",
+          "url": "https://x.com/RayDalio/status/2037498366939001310",
+          "likes": 300,
+          "retweets": 32,
+          "replies": 46,
           "isQuote": false,
           "quotedTweetId": null
-        },
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Bill Ackman",
+      "handle": "BillAckman",
+      "role": "Pershing Square CEO",
+      "bio": "CEO Pershing Square, Co-trustee @PershingSqFdn",
+      "tweets": [
         {
-          "id": "2037160338274037962",
-          "text": "You can watch the full episode here: https://t.co/i5SL8kFE35",
-          "createdAt": "2026-03-26T13:30:47.000Z",
-          "url": "https://x.com/RayDalio/status/2037160338274037962",
-          "likes": 48,
-          "retweets": 9,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2037160336495714367",
-          "text": "There are five major forces that together, operate in a big cycle:\n\n- Financial force – money, debts, markets, economy\n- Domestic political force – internal order and disorder, wealth gaps, and conflict between the left and the right\n- International world order force – great power conflicts as rising power challenges\n- Humans’ inventiveness force– Advances in technology\n- Acts of nature force – droughts, floods, and pandemics\n\nWe can use these forces to understand the reality that we are now living out, and to understand the risks of where we are headed. @theallinpod",
-          "createdAt": "2026-03-26T13:30:47.000Z",
-          "url": "https://x.com/RayDalio/status/2037160336495714367",
-          "likes": 544,
-          "retweets": 98,
-          "replies": 42,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2037627256667791775",
+          "text": "An excellent analysis on housing and Fannie and Freddie. https://t.co/LmNrKEu6A5",
+          "createdAt": "2026-03-27T20:26:09.000Z",
+          "url": "https://x.com/BillAckman/status/2037627256667791775",
+          "likes": 691,
+          "retweets": 118,
+          "replies": 63,
+          "isQuote": true,
+          "quotedTweetId": "2037618749864566935"
         }
       ]
     },
@@ -52,117 +50,77 @@
       "bio": "God is in the details.",
       "tweets": [
         {
-          "id": "2037245944065122582",
-          "text": "https://t.co/tpFQfQCOSU",
-          "createdAt": "2026-03-26T19:10:57.000Z",
-          "url": "https://x.com/chamath/status/2037245944065122582",
-          "likes": 247,
-          "retweets": 36,
-          "replies": 31,
+          "id": "2037730246183760267",
+          "text": "The biggest threat to Instagram’s moat is an incredible image model.",
+          "createdAt": "2026-03-28T03:15:24.000Z",
+          "url": "https://x.com/chamath/status/2037730246183760267",
+          "likes": 542,
+          "retweets": 21,
+          "replies": 198,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2037197844600545766",
-          "text": "Take a minute and listen…California is functionally bankrupt. You can’t tax your way out of it. A California bankruptcy will wash over to all the states as they will be paying for the bailout. https://t.co/aSXF6nr9HK",
-          "createdAt": "2026-03-26T15:59:50.000Z",
-          "url": "https://x.com/chamath/status/2037197844600545766",
-          "likes": 4788,
-          "retweets": 583,
-          "replies": 327,
+          "id": "2037713070890627275",
+          "text": "The opposition research has started on you because you may win and Ro is starting to get worried. Keep it up. https://t.co/z6y01nVUNy",
+          "createdAt": "2026-03-28T02:07:09.000Z",
+          "url": "https://x.com/chamath/status/2037713070890627275",
+          "likes": 1146,
+          "retweets": 74,
+          "replies": 35,
           "isQuote": true,
-          "quotedTweetId": "2037147893484970237"
+          "quotedTweetId": "2037709047764492388"
         },
         {
-          "id": "2036815944069390611",
-          "text": "Because of ineptitude, grift and back scratching. \n\nHard problems like going to the moon can be a bit inefficient but the problem set attracts a level of competence that drowns out all other problems than the problem itself. https://t.co/RTHisEifEu",
-          "createdAt": "2026-03-25T14:42:17.000Z",
-          "url": "https://x.com/chamath/status/2036815944069390611",
-          "likes": 1026,
-          "retweets": 59,
-          "replies": 68,
+          "id": "2037633052718018883",
+          "text": "pod! https://t.co/2qxaGAXKNx",
+          "createdAt": "2026-03-27T20:49:11.000Z",
+          "url": "https://x.com/chamath/status/2037633052718018883",
+          "likes": 268,
+          "retweets": 11,
+          "replies": 17,
           "isQuote": true,
-          "quotedTweetId": "2036661595812888794"
+          "quotedTweetId": "2037626157257162875"
         },
         {
-          "id": "2036814803382231185",
-          "text": "The pace of innovation is incredibly fast right now. \n\nIt’s easier than ever to spot the companies standing still.",
-          "createdAt": "2026-03-25T14:37:45.000Z",
-          "url": "https://x.com/chamath/status/2036814803382231185",
-          "likes": 1461,
-          "retweets": 68,
-          "replies": 169,
+          "id": "2037583529840939281",
+          "text": "The re-rating of Nvidia makes no sense quite honestly. Separately, moving the FCF multiple of Apple, Microsoft, Meta and Alphabet also doesn't make sense to me.\n\nThat said, the pricing model for public markets are changing rapidly... https://t.co/bOnVWE3STO",
+          "createdAt": "2026-03-27T17:32:24.000Z",
+          "url": "https://x.com/chamath/status/2037583529840939281",
+          "likes": 530,
+          "retweets": 31,
+          "replies": 66,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2036814514201690597",
-          "text": "Academic rigor and merit! 🙌🏽 https://t.co/d80QGRpa4P",
-          "createdAt": "2026-03-25T14:36:37.000Z",
-          "url": "https://x.com/chamath/status/2036814514201690597",
-          "likes": 1051,
-          "retweets": 52,
-          "replies": 27,
+          "id": "2037564656680915125",
+          "text": "Thank you Grok. This is a great explanation. https://t.co/eEBaP0aYUG",
+          "createdAt": "2026-03-27T16:17:24.000Z",
+          "url": "https://x.com/chamath/status/2037564656680915125",
+          "likes": 104,
+          "retweets": 4,
+          "replies": 12,
           "isQuote": true,
-          "quotedTweetId": "2036780908108235004"
+          "quotedTweetId": "2037562382856134769"
         }
       ]
     },
     {
       "source": "x",
-      "name": "Cathie Wood",
-      "handle": "CathieDWood",
-      "role": "ARK Invest CEO",
-      "bio": "Founder, CEO and CIO @ARKinvest. Thematic portfolio manager for disruptive innovation, mom, economist, and women's advocate. Disclosure: https://t.co/chxRD4oWOd",
+      "name": "Michael Burry",
+      "handle": "michaeljburry",
+      "role": "Scion Asset Management",
+      "bio": "Official X account for Michael Burry, MD, called \"Cassandra\" by Warren Buffett. Now on Substack with the full story.",
       "tweets": [
         {
-          "id": "2037236391050960974",
-          "text": "At @ARKInvest, we’re always looking for new tools that can sharpen our research and improve how we make investment decisions. Prediction markets are not just a new derivatives market — they represent a powerful new way to quantify risk and surface forward-looking insights.\n\nWe’ve been working with the @Kalshi team to list markets on topics about which we are curious, from macroeconomic data to scientific milestones. We believe the wisdom of crowds will play an increasingly important role in 21st century investment decisions, and we are proud to partner with @MansourTarek_ and the team to scale this new financial infrastructure.",
-          "createdAt": "2026-03-26T18:33:00.000Z",
-          "url": "https://x.com/CathieDWood/status/2037236391050960974",
-          "likes": 416,
-          "retweets": 32,
-          "replies": 41,
-          "isQuote": true,
-          "quotedTweetId": "2037231693740793998"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Cliff Asness",
-      "handle": "CliffordAsness",
-      "role": "AQR 联合创始人",
-      "bio": "https://t.co/SqAanFKORB. https://t.co/NbcMFHWbR4. Chaotic good.",
-      "tweets": [
-        {
-          "id": "2037259262939062272",
-          "text": "Awesome. https://t.co/lod21nVAmg",
-          "createdAt": "2026-03-26T20:03:53.000Z",
-          "url": "https://x.com/CliffordAsness/status/2037259262939062272",
-          "likes": 5,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2037236910033105055"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Raoul Pal",
-      "handle": "RaoulGMI",
-      "role": "Real Vision CEO",
-      "bio": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru.",
-      "tweets": [
-        {
-          "id": "2037141914638557556",
-          "text": "I've got something different for you today. As I'm travelling, we have a great panel from our Crypto Gathering in Miami. @goldmembrrr sat down with @ViPowow and @farokh to chat Web3, where it's going, what it needs to do better, and how prediction markets fit into all this.\n\nAs ever, please enjoy!",
-          "createdAt": "2026-03-26T12:17:35.000Z",
-          "url": "https://x.com/RaoulGMI/status/2037141914638557556",
-          "likes": 182,
-          "retweets": 19,
-          "replies": 61,
+          "id": "2037618749864566935",
+          "text": "Open Letter on Housing, Fannie & Freddie \n@realDonaldTrump @pulte @SecScottBessent @FHFA @USTreasury  $fnma $FMCC\n\nWe studied housing square footage per capita adequacy, and found that there is no problem there. The US in fact has more residential square footage per capita than any other country in the world. This is not a housing shortage, despite what so many say. \n\nThe problem is that bigger houses are inefficiently housing fewer people. The post-COVID low rate environment locked people into a lifecycle real estate position. Empty nesters can't sell, first time home buyers cannot buy. Second-hand home inventory is near all-time lows due to record low supply, not record demand. Prices are high due to the same reason.\n\nHome equity is now a record $35 trillion, nearly doubling pre-COVID levels. 40% of homeowners own their homes free and clear - a record. And about 30% of all home buyers pay for homes without borrowing. Older homes were upgraded at a record pace during COVID, extending and refreshing the usefulness of residential real estate.\n\nArtificially low interest rates, ~$6-7 trillion in helicopter cash and forgivable loans helped drive both the home updates and high housing prices.\n\nWork from home moved the office into the home, often expensed or deductible. People with white collar jobs and means chose to live/work in exotic or remote locations.\n\nAll of this together does not speak of a housing shortage, or a housing problem.\n\nInstead it is a problem of current residential space allocation and mobility, and this problem was created by government manipulation of interest rates, cash money supply, and COVID lockups that went on too long and changed work/home behavior.\n\nGovernment created the problem and now maintains policies that prevent free markets from reaching a solution, not the least of which is keeping the GSEs inefficiently run while in conservatorship. Recall Pulte's video upon arriving at Fannie Mae - no one was in the office buildings. The companies have become atherosclerotic, inefficient government programs, while a decade of financial engineering optimized for homeowner wealth accumulation rather than housing market velocity/mobility/fluidity.\n\nGovernment must fix this problem by facilitating efficient re-allocation of housing stock with higher housing velocity/mobility through the release of the GSEs into free markets.\n\nThis is a problem made for the GSEs. Through well-targeted programs, the GSE can help the free market find spaces to intelligently reallocate , and help US citizens with housing mobility.\n\nBuilding more new overpriced, poorly built homes in increasingly dangerous flood zones and other hazardous fringe areas is not the solution. It adds to the problem through high maintenance burdens on new homeowners with little equity in their homes.\n\nRather, to build mobility/velocity of homeowners and housing space, the GSEs need to be recapitalized and retain easy access to capital markets. They also need to be run by real mortgage executives, not government functionaries.\n\nTo achieve this they need to exit conservatorship in a manner that excites markets to fund these companies, now with guidelines to prevent risk-taking outside of their purpose, and grow their purchases of mortgages of well-targeted specification.\n\nI should have written this into the Recurrence piece itself.",
+          "createdAt": "2026-03-27T19:52:21.000Z",
+          "url": "https://x.com/michaeljburry/status/2037618749864566935",
+          "likes": 1154,
+          "retweets": 216,
+          "replies": 160,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -176,48 +134,37 @@
       "bio": "Founder & President, Forest for the Trees (FFTT).  Author of \"The Mr. X Interviews, Volumes I & II.”  I never solicit via DM's.  RT not endorsements.",
       "tweets": [
         {
-          "id": "2037265221618733377",
-          "text": "\"Look Daddy!  Every time the 10y UST yield hits 4.4%, Trump delays his Iran deadline!\"  -Zuzu, paraphrased https://t.co/wA7Y3KjfPa",
-          "createdAt": "2026-03-26T20:27:34.000Z",
-          "url": "https://x.com/LukeGromen/status/2037265221618733377",
-          "likes": 1945,
-          "retweets": 289,
-          "replies": 106,
+          "id": "2037617802123559378",
+          "text": "Watch Yanbu https://t.co/fY1qH5mOHV",
+          "createdAt": "2026-03-27T19:48:35.000Z",
+          "url": "https://x.com/LukeGromen/status/2037617802123559378",
+          "likes": 315,
+          "retweets": 25,
+          "replies": 31,
           "isQuote": true,
-          "quotedTweetId": "2037263546531172781"
+          "quotedTweetId": "2037611556616143155"
         },
         {
-          "id": "2037222382419468348",
-          "text": "As long as Hormuz stays closed (which is highly likely near term), 10y UST yields will likely keep rising until either Fed or Treasury are forced to inject USD liquidity (into an oil spike &amp; increasingly fracturing global supply chains) in order to cap rising yields\n\n#Yugeflation https://t.co/BBhaWl9FKA",
-          "createdAt": "2026-03-26T17:37:20.000Z",
-          "url": "https://x.com/LukeGromen/status/2037222382419468348",
-          "likes": 917,
-          "retweets": 140,
-          "replies": 70,
-          "isQuote": true,
-          "quotedTweetId": "2037213149196148762"
-        },
-        {
-          "id": "2037148223953834063",
-          "text": "Yes...&amp; at the same time, all investors &lt; 80 yrs old are about to be introduced to commodity force majeures if Hormuz stays closed much longer\n\nEveryone &lt; 80 yrs old only knows crises responses of \"Just print the USDs we need\", but printing USDs into commodity shortages = kaboom https://t.co/IlRCFbwZmJ",
-          "createdAt": "2026-03-26T12:42:39.000Z",
-          "url": "https://x.com/LukeGromen/status/2037148223953834063",
-          "likes": 978,
-          "retweets": 102,
-          "replies": 65,
-          "isQuote": true,
-          "quotedTweetId": "2036981873973322019"
-        },
-        {
-          "id": "2036841750791098426",
-          "text": "...and yet Hormuz remains closed.\n\nThe US bragging about how many targets we've hit in Iran while Hormuz remains closed is the geopolitical equivalent of \"Every kid gets a trophy\", because Hormuz closure means the world economy is on the clock.\n\nAnother 2-3 weeks closed = trouble https://t.co/gnyQVfHfTx",
-          "createdAt": "2026-03-25T16:24:50.000Z",
-          "url": "https://x.com/LukeGromen/status/2036841750791098426",
-          "likes": 1064,
+          "id": "2037594488806265290",
+          "text": "What happens to the market cap of Mag-7 and NDX if Taiwan has to start rationing LNG and helium?\n\n🤔 https://t.co/RK4kKJwnwz",
+          "createdAt": "2026-03-27T18:15:57.000Z",
+          "url": "https://x.com/LukeGromen/status/2037594488806265290",
+          "likes": 991,
           "retweets": 108,
-          "replies": 74,
+          "replies": 86,
           "isQuote": true,
-          "quotedTweetId": "2036840273221722164"
+          "quotedTweetId": "2037265424006472032"
+        },
+        {
+          "id": "2037537268961828958",
+          "text": "China's capital account has been open on a limited basis through gold for some time, and it looks like it is being opened further👇\n\nVia @KingKong9888 https://t.co/iEInEDZvmo",
+          "createdAt": "2026-03-27T14:28:35.000Z",
+          "url": "https://x.com/LukeGromen/status/2037537268961828958",
+          "likes": 485,
+          "retweets": 52,
+          "replies": 21,
+          "isQuote": true,
+          "quotedTweetId": "2037436172268384287"
         }
       ]
     },
@@ -229,59 +176,48 @@
       "bio": "Author of Broken Money & The Stolguard Incident. Investor with a blended engineering/finance background. GP @egodeathcapital. Director at Bakkt & @Swan.",
       "tweets": [
         {
-          "id": "2037311686634262783",
-          "text": "The book includes the US fighting wars in the Middle East.\n\nPart of me was like, \"Is this based on recency bias? Surely we won't do this in the future, right?\" But then I was like, \"Nah, we're definitely going to do it again, it's in.\"\n\nThen we did it as soon as it was published.",
-          "createdAt": "2026-03-26T23:32:12.000Z",
-          "url": "https://x.com/LynAldenContact/status/2037311686634262783",
-          "likes": 125,
-          "retweets": 2,
-          "replies": 21,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2037307694764216457",
-          "text": "I posted it shortly after I finished the first draft of The Stolguard Incident. I was curious to see what people liked to read.\n\nhttps://t.co/90lW3MMW0h",
-          "createdAt": "2026-03-26T23:16:20.000Z",
-          "url": "https://x.com/LynAldenContact/status/2037307694764216457",
-          "likes": 62,
-          "retweets": 2,
-          "replies": 13,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2037306833816199596",
-          "text": "The 1,700 comments to this post are an absolute goldmine, btw. https://t.co/HEfBH9CXJh",
-          "createdAt": "2026-03-26T23:12:55.000Z",
-          "url": "https://x.com/LynAldenContact/status/2037306833816199596",
-          "likes": 268,
-          "retweets": 11,
-          "replies": 39,
-          "isQuote": true,
-          "quotedTweetId": "1863557910627844096"
-        },
-        {
-          "id": "2037296418818338819",
-          "text": "The market increasingly has one question: will the strait open somewhat soon or no? https://t.co/dK2pQ5KUdz",
-          "createdAt": "2026-03-26T22:31:32.000Z",
-          "url": "https://x.com/LynAldenContact/status/2037296418818338819",
+          "id": "2037605024826548320",
+          "text": "1) What https://t.co/AbzzccH8rJ",
+          "createdAt": "2026-03-27T18:57:49.000Z",
+          "url": "https://x.com/LynAldenContact/status/2037605024826548320",
           "likes": 674,
-          "retweets": 32,
-          "replies": 86,
+          "retweets": 16,
+          "replies": 80,
           "isQuote": true,
-          "quotedTweetId": "2037267478020026494"
+          "quotedTweetId": "2037573425858802038"
         },
         {
-          "id": "2037175292645572639",
-          "text": "Remember Bessent’s 3/3/3 plan?\n\nOne of the 3’s was 3%-of-GDP deficits. https://t.co/LI64eVsboT",
-          "createdAt": "2026-03-26T14:30:13.000Z",
-          "url": "https://x.com/LynAldenContact/status/2037175292645572639",
-          "likes": 1115,
-          "retweets": 79,
-          "replies": 69,
+          "id": "2037574331933380961",
+          "text": "https://t.co/69zO3wGoDp https://t.co/ABV38KVqFp",
+          "createdAt": "2026-03-27T16:55:51.000Z",
+          "url": "https://x.com/LynAldenContact/status/2037574331933380961",
+          "likes": 392,
+          "retweets": 11,
+          "replies": 24,
+          "isQuote": true,
+          "quotedTweetId": "2037525017085235369"
+        },
+        {
+          "id": "2037542246136844682",
+          "text": "Still can’t believe they did this. https://t.co/ZnvwNqUaXZ",
+          "createdAt": "2026-03-27T14:48:21.000Z",
+          "url": "https://x.com/LynAldenContact/status/2037542246136844682",
+          "likes": 11401,
+          "retweets": 1469,
+          "replies": 985,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2037165213225566554",
+          "text": "The one-paragraph description of why nothing stops this train: https://t.co/O2WweeFI0y",
+          "createdAt": "2026-03-26T13:50:10.000Z",
+          "url": "https://x.com/LynAldenContact/status/2037165213225566554",
+          "likes": 991,
+          "retweets": 92,
+          "replies": 35,
+          "isQuote": true,
+          "quotedTweetId": "2037159962539901041"
         }
       ]
     },
@@ -293,88 +229,46 @@
       "bio": "Macro investment research at https://t.co/hQqAza8GGP\n\nOur total return index is at https://t.co/vta9eqevnU\nThe ETF WTBN tracks our Index.\n\nbiancoresearch.eth",
       "tweets": [
         {
-          "id": "2037452242585018721",
-          "text": "The Big 10 is dominating March Madness has so upset the country that congress is pushing legislation to stop it!! https://t.co/gwBQBN8QBG",
-          "createdAt": "2026-03-27T08:50:43.000Z",
-          "url": "https://x.com/biancoresearch/status/2037452242585018721",
-          "likes": 6,
-          "retweets": 0,
-          "replies": 6,
-          "isQuote": true,
-          "quotedTweetId": "2037264878331654611"
-        },
-        {
-          "id": "2037310960873206169",
-          "text": "One day tick chart of crude oil shows this delay did nothing lasting to depress higher crude prices.\n\nThe reason is the Iran War was won about two weeks ago. This is now a war to open the Strait. And you just told the market the START of opening the Strait has been pushed off another 10 days. See the repost below.\n\nTwitter likes to talk about TACO, and I do too.\n\nBut as @agnostoxxx so eloquently put it, this is now about NACHO.\n\nNot\nActually \nChanging \nHormuz\nOpening",
-          "createdAt": "2026-03-26T23:29:19.000Z",
-          "url": "https://x.com/biancoresearch/status/2037310960873206169",
-          "likes": 379,
-          "retweets": 40,
-          "replies": 42,
-          "isQuote": true,
-          "quotedTweetId": "2037270027519349028"
-        },
-        {
-          "id": "2037306316369342697",
-          "text": "Thinking out loud …\n\nTrump was on Fox News a little while ago saying the Iranians asked for 7 days and he gave them 10 days.\n\n7 days is good Friday. Was potentially attacking a Muslim nation on Christian holiday a consideration?\n\nSo he put it off until Monday, April 6th at 8 PM ET. That is the day after Easter. Coincidence?\n\nAlso, the time is curious as that is literally the start of the NCAA national championship game.\n\nHis top donor David Ellison owns Paramount (CBS) and they paid huge to broadcast this game. Does he want a “distraction” lower his ratings? Will this lead Trump to delay again?",
-          "createdAt": "2026-03-26T23:10:51.000Z",
-          "url": "https://x.com/biancoresearch/status/2037306316369342697",
-          "likes": 266,
-          "retweets": 27,
-          "replies": 99,
+          "id": "2037701364386795992",
+          "text": "Nearby Brent Crude Oil Futures made a new closing high today. Up 59% since the war began. https://t.co/659nwQCHcc",
+          "createdAt": "2026-03-28T01:20:38.000Z",
+          "url": "https://x.com/biancoresearch/status/2037701364386795992",
+          "likes": 180,
+          "retweets": 20,
+          "replies": 21,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2037268090493559114",
-          "text": "WTI futures reaction to the post above\n\nNote that now it only took minutes to reverse three-quarters of the decline. https://t.co/SEvBJUI8V9",
-          "createdAt": "2026-03-26T20:38:58.000Z",
-          "url": "https://x.com/biancoresearch/status/2037268090493559114",
-          "likes": 107,
-          "retweets": 14,
-          "replies": 16,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2037266356677353723",
-          "text": "TACO-ing or waiting for the Marines to get into position?\n\nRegarding \"talks are ongoing and, despite erroneous statements ... and others, they are going very well.\"\n\nSix hours ago ...\n\n*TRUMP: DON'T KNOW IF WE'RE WILLING TO WORK ON DEAL WITH IRAN https://t.co/lEbuPXdkkq",
-          "createdAt": "2026-03-26T20:32:04.000Z",
-          "url": "https://x.com/biancoresearch/status/2037266356677353723",
-          "likes": 523,
+          "id": "2037495944783319227",
+          "text": "As a follow up, I'm not going to mince words ...\n\nIf the real reason for the delay is that the military assets needed were not in place, then don't make up shit about 10 tankers going through the Strait (no evidence) or the Iranians asked for the delay (the Pakistanis, who are the intermediaries, said no such request was made).\n\nSay you'll keep talking, you're losing patience, and say every day the Iranians don't deal means the Marines are getting closer to the Middle East.\n\nThe market would understand that, and the crude oil response (fall and stay down) might have been more favorable.\n\nThis just looks like a TACO mess.",
+          "createdAt": "2026-03-27T11:44:22.000Z",
+          "url": "https://x.com/biancoresearch/status/2037495944783319227",
+          "likes": 652,
           "retweets": 49,
-          "replies": 154,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Jeff Gundlach",
-      "handle": "TruthGundlach",
-      "role": "DoubleLine CEO",
-      "bio": "Bills fan. Art fan. Truth fan. DoubleLine Founder.",
-      "tweets": [
-        {
-          "id": "2037203207919984953",
-          "text": "Larry Fink:\n\n“If I allowed more people to redeem, I’m not a fiduciary to those who are staying in”.\n\nIt’s an admission that the reported NAV is bogus.",
-          "createdAt": "2026-03-26T16:21:08.000Z",
-          "url": "https://x.com/TruthGundlach/status/2037203207919984953",
-          "likes": 2032,
-          "retweets": 320,
-          "replies": 0,
+          "replies": 108,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2037194466763960508",
-          "text": "Bloomberg:\n\n“Jim Zelter (President of Apollo) and Doug Ostrover (Co-CEO of Blue Owl) said the private credit industry failed to clearly explain liquidity restrictions to investors.”\n\nSo shouldn’t you give them their money back?",
-          "createdAt": "2026-03-26T15:46:24.000Z",
-          "url": "https://x.com/TruthGundlach/status/2037194466763960508",
-          "likes": 858,
-          "retweets": 111,
-          "replies": 0,
+          "id": "2037491290657710573",
+          "text": "When Trump announced a delay to the bombing on Monday morning, crude oil futures immediately fell 10%.\n\nCompare this to the reaction to yesterday afternoon, when he extended the delay another 10 days (red box). It was short-lived, and now, about 12 hours later, prices are meaningfully higher.\n\nI believe the market signal is that the Strait must be opened, and the military must do it. The longer we delay starting this process, the higher crude oil prices will go. All Trump did yesterday was add 10 more days to the ongoing supply shock.\n\nAny further statements by Trump about a deal are white noise to the markets. Only if the IRANIANS say the talks are going well will it impact markets.\n\nWhy isn't the crude oil market substantially higher ($150+), like many are asking? I would argue that the market believes the military can open the Strait. But it will be \"messy.\"\n\nIn other words, there are no good choices, only ones that are less bad.",
+          "createdAt": "2026-03-27T11:25:53.000Z",
+          "url": "https://x.com/biancoresearch/status/2037491290657710573",
+          "likes": 1547,
+          "retweets": 259,
+          "replies": 223,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2037229013736001919",
+          "text": "An October rate HIKE is back above 50% https://t.co/trhZ8mvmHL",
+          "createdAt": "2026-03-26T18:03:41.000Z",
+          "url": "https://x.com/biancoresearch/status/2037229013736001919",
+          "likes": 226,
+          "retweets": 27,
+          "replies": 38,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -382,7 +276,7 @@
     }
   ],
   "stats": {
-    "xInvestors": 9,
-    "totalTweets": 27
+    "xInvestors": 7,
+    "totalTweets": 19
   }
 }
