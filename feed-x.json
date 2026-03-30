@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-29T09:02:10.040Z",
+  "generatedAt": "2026-03-30T09:52:02.571Z",
   "lookbackHours": 48,
   "x": [
     {
@@ -10,13 +10,13 @@
       "bio": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
       "tweets": [
         {
-          "id": "2037862276695535855",
-          "text": "Everything from the smallest subatomic particle to the entire galaxy is evolving. While everything apparently dies or disappears in time, the truth is that it all just gets reconfigured in evolving forms. Remember that energy can’t be destroyed—it can only be reconfigured. So the same stuff is continuously falling apart and coalescing in different forms. The force behind that is evolution.\n\nFor example, the primary purpose of every living thing is to act as a vessel for the DNA that evolves life through time. The DNA that exists within each individual came from an eternity ago and will continue to live long after its individual carriers pass away, in increasingly evolved forms.\n\nAs I thought about evolution, I realized that it exists in other forms than life and is carried out through other transmission mechanisms than DNA. Technologies, languages, and everything else evolves. Knowledge, for example, is like DNA in that it is passed from generation to generation and evolves; its impact on people over many generations can be as great or greater than that of the genetic code.\n\nEvolution is good because it is the process of adaptation that generally moves things toward improvement. All things such as products, organizations, and human capabilities evolve through time in a similar way. It is simply the process by which things either adapt and improve or die. #principleoftheday",
-          "createdAt": "2026-03-28T12:00:03.000Z",
-          "url": "https://x.com/RayDalio/status/2037862276695535855",
-          "likes": 530,
-          "retweets": 82,
-          "replies": 74,
+          "id": "2038225408433508393",
+          "text": "Almost every group that agrees on the big things ends up fighting about less important things and becoming enemies even though they should be bound by the big things. This phenomenon is called the narcissism of small differences. Don't let this narcissism of small differences happen to you. Understand that nobody and nothing is perfect and that you are lucky to have by-andlarge excellent relationships. See the big picture. #principleoftheday",
+          "createdAt": "2026-03-29T12:03:00.000Z",
+          "url": "https://x.com/RayDalio/status/2038225408433508393",
+          "likes": 855,
+          "retweets": 129,
+          "replies": 81,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -30,15 +30,48 @@
       "bio": "CEO Pershing Square, Co-trustee @PershingSqFdn",
       "tweets": [
         {
-          "id": "2038066136206467215",
-          "text": "Incredible. Worth two minutes. https://t.co/LLTpKGoQF8",
-          "createdAt": "2026-03-29T01:30:06.000Z",
-          "url": "https://x.com/BillAckman/status/2038066136206467215",
-          "likes": 2756,
-          "retweets": 214,
-          "replies": 102,
+          "id": "2038460562875531609",
+          "text": "Agreed https://t.co/BXTfieZLTB",
+          "createdAt": "2026-03-30T03:37:25.000Z",
+          "url": "https://x.com/BillAckman/status/2038460562875531609",
+          "likes": 533,
+          "retweets": 64,
+          "replies": 60,
           "isQuote": true,
-          "quotedTweetId": "2037699036006818063"
+          "quotedTweetId": "2038352998972448788"
+        },
+        {
+          "id": "2038432411692745140",
+          "text": "And Fannie and Freddie are stupidly cheap. Asymmetry at its best. They could be a 10X and it could happen soon.",
+          "createdAt": "2026-03-30T01:45:33.000Z",
+          "url": "https://x.com/BillAckman/status/2038432411692745140",
+          "likes": 3687,
+          "retweets": 270,
+          "replies": 263,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2038431513964916978",
+          "text": "Some of the highest quality businesses in the world are trading at extremely cheap prices. Ignore the MSM. One of the most one-sided wars in history that will end well for the U.S. and the world. And we have the potential for a large peace dividend. \n\nOne of the best times in a long time to buy quality. \n\nIgnore the bears.",
+          "createdAt": "2026-03-30T01:41:59.000Z",
+          "url": "https://x.com/BillAckman/status/2038431513964916978",
+          "likes": 18379,
+          "retweets": 1881,
+          "replies": 1763,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2038231415104368897",
+          "text": "By far the best piece I have read on U.S. strategic options in Iran. https://t.co/Nb1q4mxgQ6",
+          "createdAt": "2026-03-29T12:26:52.000Z",
+          "url": "https://x.com/BillAckman/status/2038231415104368897",
+          "likes": 7851,
+          "retweets": 1083,
+          "replies": 670,
+          "isQuote": true,
+          "quotedTweetId": "2038110363749872014"
         }
       ]
     },
@@ -50,59 +83,46 @@
       "bio": "God is in the details.",
       "tweets": [
         {
-          "id": "2037985931945537899",
-          "text": "TBC, this is likely a good feature flag for a chat or a skill vs an entire product but my point still stands.",
-          "createdAt": "2026-03-28T20:11:24.000Z",
-          "url": "https://x.com/chamath/status/2037985931945537899",
-          "likes": 73,
-          "retweets": 1,
-          "replies": 11,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2037958212868334021",
-          "text": "Product idea:\n\nAn app that takes today’s top headlines, run @karpathy’s iterative argument/counter argument loop, summarize both sides and send it to me so I can read both sides and come to my ow conclusion. https://t.co/Do713TezTL",
-          "createdAt": "2026-03-28T18:21:16.000Z",
-          "url": "https://x.com/chamath/status/2037958212868334021",
-          "likes": 2027,
-          "retweets": 75,
-          "replies": 236,
+          "id": "2038424076365217965",
+          "text": "Social media vs AI… https://t.co/BOOXTHrGUY",
+          "createdAt": "2026-03-30T01:12:26.000Z",
+          "url": "https://x.com/chamath/status/2038424076365217965",
+          "likes": 214,
+          "retweets": 15,
+          "replies": 24,
           "isQuote": true,
-          "quotedTweetId": "2037921699824607591"
+          "quotedTweetId": "2037795164186390769"
         },
         {
-          "id": "2037943221867975141",
-          "text": "The biggest threat to today’s social media apps is an incredible video model + TTS + autoresearch",
-          "createdAt": "2026-03-28T17:21:41.000Z",
-          "url": "https://x.com/chamath/status/2037943221867975141",
-          "likes": 512,
-          "retweets": 32,
-          "replies": 116,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
+          "id": "2038282109983580324",
+          "text": "So true https://t.co/gUztjWuT8O",
+          "createdAt": "2026-03-29T15:48:19.000Z",
+          "url": "https://x.com/chamath/status/2038282109983580324",
+          "likes": 3969,
+          "retweets": 220,
+          "replies": 124,
+          "isQuote": true,
+          "quotedTweetId": "2038134640800645515"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Cathie Wood",
+      "handle": "CathieDWood",
+      "role": "ARK Invest CEO",
+      "bio": "Founder, CEO and CIO @ARKinvest. Thematic portfolio manager for disruptive innovation, mom, economist, and women's advocate. Disclosure: https://t.co/chxRD4oWOd",
+      "tweets": [
         {
-          "id": "2037560354667122818",
-          "text": "8090 in a nutshell... https://t.co/C1INOoJ8gb",
-          "createdAt": "2026-03-27T16:00:19.000Z",
-          "url": "https://x.com/chamath/status/2037560354667122818",
-          "likes": 201,
-          "retweets": 14,
-          "replies": 29,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2037558193522614532",
-          "text": "new video... https://t.co/RmxnwGbdul",
-          "createdAt": "2026-03-27T15:51:43.000Z",
-          "url": "https://x.com/chamath/status/2037558193522614532",
-          "likes": 691,
-          "retweets": 52,
-          "replies": 62,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2038346091477815322",
+          "text": "Wild! https://t.co/RrJZctqpmb",
+          "createdAt": "2026-03-29T20:02:33.000Z",
+          "url": "https://x.com/CathieDWood/status/2038346091477815322",
+          "likes": 1506,
+          "retweets": 88,
+          "replies": 57,
+          "isQuote": true,
+          "quotedTweetId": "2038334141566243252"
         }
       ]
     },
@@ -114,15 +134,66 @@
       "bio": "https://t.co/SqAanFKORB. https://t.co/NbcMFHWbR4. Chaotic good.",
       "tweets": [
         {
-          "id": "2037899928647737740",
-          "text": "Humble? Said nobody about me ever :) https://t.co/L3ePy0iJ00",
-          "createdAt": "2026-03-28T14:29:39.000Z",
-          "url": "https://x.com/CliffordAsness/status/2037899928647737740",
-          "likes": 18,
-          "retweets": 0,
-          "replies": 6,
+          "id": "2038272859659813321",
+          "text": "It never ends. \n\n#volatilitylaundering is a public service. https://t.co/12ey0w8Nd3",
+          "createdAt": "2026-03-29T15:11:33.000Z",
+          "url": "https://x.com/CliffordAsness/status/2038272859659813321",
+          "likes": 59,
+          "retweets": 7,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Michael Burry",
+      "handle": "michaeljburry",
+      "role": "Scion Asset Management",
+      "bio": "Official X account for Michael Burry, MD, called \"Cassandra\" by Warren Buffett. Now on Substack with the full story.",
+      "tweets": [
+        {
+          "id": "2038453607121506362",
+          "text": "Cannot emphasize enough how rare this is in this market. https://t.co/9leb5Y2tYi",
+          "createdAt": "2026-03-30T03:09:47.000Z",
+          "url": "https://x.com/michaeljburry/status/2038453607121506362",
+          "likes": 2681,
+          "retweets": 137,
+          "replies": 117,
           "isQuote": true,
-          "quotedTweetId": "2037857644245823698"
+          "quotedTweetId": "2038432411692745140"
+        },
+        {
+          "id": "2038346499675812075",
+          "text": "Well, I can vouch for this. I forgot I had made this pic public in the past. https://t.co/EsVIX9hVLr",
+          "createdAt": "2026-03-29T20:04:10.000Z",
+          "url": "https://x.com/michaeljburry/status/2038346499675812075",
+          "likes": 1070,
+          "retweets": 86,
+          "replies": 46,
+          "isQuote": true,
+          "quotedTweetId": "2038335073791938637"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Raoul Pal",
+      "handle": "RaoulGMI",
+      "role": "Real Vision CEO",
+      "bio": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru.",
+      "tweets": [
+        {
+          "id": "2038413257195622535",
+          "text": "We are getting to that point of doom on Iran where X got to on Ukraine. Back then without gas and food we were going to be cholipping frozen, starved, dead Europeans of the streets. This time it's oil, gas, fertilizer and helium all about to bring about the end of humanity as we know it....",
+          "createdAt": "2026-03-30T00:29:27.000Z",
+          "url": "https://x.com/RaoulGMI/status/2038413257195622535",
+          "likes": 1462,
+          "retweets": 60,
+          "replies": 244,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -134,13 +205,110 @@
       "bio": "Founder & President, Forest for the Trees (FFTT).  Author of \"The Mr. X Interviews, Volumes I & II.”  I never solicit via DM's.  RT not endorsements.",
       "tweets": [
         {
-          "id": "2037892337225851278",
-          "text": "10y UST yield (blue, RS1)\nUSDJPY*oil (red, LS)\nUSDCNY*oil (green, RS2)\n\nChoices:\n\n1. Let 10y UST yields spike, hitting stocks, housing, &amp; economy.\n\n2. Print USD into an oil spike to cap 10y yields, hitting USD.\n\n3. Walk away, granting Iran a strategic victory.\n\nLet's watch. https://t.co/6qURPJR2k4",
-          "createdAt": "2026-03-28T13:59:30.000Z",
-          "url": "https://x.com/LukeGromen/status/2037892337225851278",
-          "likes": 1335,
-          "retweets": 199,
-          "replies": 157,
+          "id": "2038402329754358168",
+          "text": "Interestingly, last week multiple senior fund managers pointed out to me that this pattern has held for each of the last 3 weeks:\n\n“TACO/positive news” Monday, “uh-oh” by Wednesday, “dumpster fire” by Friday https://t.co/CjuGKpH7lO",
+          "createdAt": "2026-03-29T23:46:01.000Z",
+          "url": "https://x.com/LukeGromen/status/2038402329754358168",
+          "likes": 1078,
+          "retweets": 125,
+          "replies": 53,
+          "isQuote": true,
+          "quotedTweetId": "2038348581535425002"
+        },
+        {
+          "id": "2038317234410467413",
+          "text": "Sec. Bessent, February 2025: \"Judge us by the 10y UST yield.\"\n\n10y UST yield (blue, RS) v. oil, since Bessent said that 👇\n\n\"3 Arrows\" about to turn into \"0-for-3 Arrows\": https://t.co/goqhygmgv6",
+          "createdAt": "2026-03-29T18:07:53.000Z",
+          "url": "https://x.com/LukeGromen/status/2038317234410467413",
+          "likes": 789,
+          "retweets": 96,
+          "replies": 48,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2038279680537555305",
+          "text": "US is \"self-sufficient in food &amp; energy\"...\n\n...but US food &amp; energy supply chains are now HIGHLY centralized, fragile, &amp; long (&amp; usually stretch back to China.)\n\n\"US is self-sufficient in food &amp; energy\" is like the man who drowned in a river that was only 6\" deep on average. https://t.co/tsMBBsNkUk",
+          "createdAt": "2026-03-29T15:38:39.000Z",
+          "url": "https://x.com/LukeGromen/status/2038279680537555305",
+          "likes": 564,
+          "retweets": 49,
+          "replies": 52,
+          "isQuote": true,
+          "quotedTweetId": "2038120351738286189"
+        },
+        {
+          "id": "2038264964830392685",
+          "text": "Missiles &gt; insurance https://t.co/XlFmovZCVW",
+          "createdAt": "2026-03-29T14:40:11.000Z",
+          "url": "https://x.com/LukeGromen/status/2038264964830392685",
+          "likes": 275,
+          "retweets": 16,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2038151249099382879"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Lyn Alden",
+      "handle": "LynAldenContact",
+      "role": "独立宏观研究",
+      "bio": "Author of Broken Money & The Stolguard Incident. Investor with a blended engineering/finance background. GP @egodeathcapital. Director at Bakkt & @Swan.",
+      "tweets": [
+        {
+          "id": "2038423910161514627",
+          "text": "The whole world is like “I don’t know what the Strait of Hormuz is, but I’m with Samuel on this.” https://t.co/nE94Lc2xNf",
+          "createdAt": "2026-03-30T01:11:46.000Z",
+          "url": "https://x.com/LynAldenContact/status/2038423910161514627",
+          "likes": 258,
+          "retweets": 10,
+          "replies": 18,
+          "isQuote": true,
+          "quotedTweetId": "2038423117060878681"
+        },
+        {
+          "id": "2038418240079028505",
+          "text": "Imagine thinking that the new Harry Potter art will be as good as the prior art.\n\nJust re-explore the prior art. Re-watch it, show it to your kids.\n\nThey already nailed it.",
+          "createdAt": "2026-03-30T00:49:15.000Z",
+          "url": "https://x.com/LynAldenContact/status/2038418240079028505",
+          "likes": 806,
+          "retweets": 11,
+          "replies": 65,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2038410965775966234",
+          "text": "My job is to entertain you most of the time, occasionally quell sensationalist headlines, and so forth.\n\nYou know, the normal stuff.\n\nBut each day the Strait of Hormuz remains closed is a growing global catastrophe that people are sleepwalking into.\n\nThat’s the signal. https://t.co/mToDVrGrXS",
+          "createdAt": "2026-03-30T00:20:20.000Z",
+          "url": "https://x.com/LynAldenContact/status/2038410965775966234",
+          "likes": 1966,
+          "retweets": 157,
+          "replies": 111,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2038409161482932639",
+          "text": "Some people ask me when I’ll be chill about energy.\n\nThe first step is that my (almost always chill, but currently not chill) oil quant has to become chill again.\n\nHe’s still not chill.\n\nHe’s the opposite of chill. https://t.co/QBK7DpHZAI",
+          "createdAt": "2026-03-30T00:13:10.000Z",
+          "url": "https://x.com/LynAldenContact/status/2038409161482932639",
+          "likes": 3604,
+          "retweets": 243,
+          "replies": 79,
+          "isQuote": true,
+          "quotedTweetId": "2038401428612370489"
+        },
+        {
+          "id": "2038396522002268326",
+          "text": "My vibe when I encounter good hummus outside of the Middle East is like https://t.co/4IUabv8KjB",
+          "createdAt": "2026-03-29T23:22:57.000Z",
+          "url": "https://x.com/LynAldenContact/status/2038396522002268326",
+          "likes": 211,
+          "retweets": 2,
+          "replies": 28,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -154,21 +322,41 @@
       "bio": "Macro investment research at https://t.co/hQqAza8GGP\n\nOur total return index is at https://t.co/vta9eqevnU\nThe ETF WTBN tracks our Index.\n\nbiancoresearch.eth",
       "tweets": [
         {
-          "id": "2038090499538690125",
-          "text": "*SAUDI EAST-WEST OIL PIPELINE REACHES 7 MLN B/D CAPACITY https://t.co/9g2PZwUSAz",
-          "createdAt": "2026-03-29T03:06:55.000Z",
-          "url": "https://x.com/biancoresearch/status/2038090499538690125",
-          "likes": 135,
-          "retweets": 15,
-          "replies": 13,
+          "id": "2038416720126501078",
+          "text": "Markets reopened Sunday night, with nearby Brent Crude Oil Futures now at $116, up 3% from Friday's close, and $12 higher than the low set after Trump extended the talks until April 6.\n\nAre you surprised we are seeing headlines like this crossing now?\n\n* PRESIDENT TRUMP BRIEFS REPORTERS ON AF1\n*TRUMP ON IRAN DEAL: COULD BE SOON\n*TRUMP: I DO SEE A DEAL WITH IRAN\n*TRUMP: IRAN CAME BACK TO US ON 15-POINT PLAN\n*TRUMP ON 15-POINT PLAN: IRAN GAVE US MOST OF THE POINTS\n---\nAs I wrote in the repost, the market doesn't believe him. These talks are a stall, and the longer they go on, the higher crude oil prices go.\n\n(To be clear I'm criticizing the messaging, not the objective)\n\nSo, while I'm sure the algos will react to these headlines, let's see how long it lasts.\n\nRemember, the only headline that would really cause oil to plunge is an IRANIAN effectively saying what Trump said.\n\nInstead, these Trump statements most likely are viewed by Iran as they are winning, and Trump's insistence that they are close to a deal is viewed as weakness on his part.\n\nIf he is stalling for the Military to get in place, they say something like...\n\nWe'll keep talking to give peace a chance, but note every day we go without a deal, the Marines get closer to the Middle East, and you (Iran) don't want that.",
+          "createdAt": "2026-03-30T00:43:12.000Z",
+          "url": "https://x.com/biancoresearch/status/2038416720126501078",
+          "likes": 499,
+          "retweets": 87,
+          "replies": 79,
           "isQuote": true,
-          "quotedTweetId": "2031371630811992126"
+          "quotedTweetId": "2037491290657710573"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Jeff Gundlach",
+      "handle": "TruthGundlach",
+      "role": "DoubleLine CEO",
+      "bio": "Bills fan. Art fan. Truth fan. DoubleLine Founder.",
+      "tweets": [
+        {
+          "id": "2038446788290732197",
+          "text": "Here is what I said:\n\n“If your only hope is two Fed cuts this year, you’re backing  the wrong horse.”",
+          "createdAt": "2026-03-30T02:42:41.000Z",
+          "url": "https://x.com/TruthGundlach/status/2038446788290732197",
+          "likes": 436,
+          "retweets": 25,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xInvestors": 6,
-    "totalTweets": 10
+    "xInvestors": 11,
+    "totalTweets": 23
   }
 }
