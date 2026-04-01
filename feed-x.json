@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-03-31T09:37:08.488Z",
+  "generatedAt": "2026-04-01T09:41:27.988Z",
   "lookbackHours": 48,
   "x": [
     {
@@ -10,57 +10,37 @@
       "bio": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
       "tweets": [
         {
-          "id": "2038706444170617129",
-          "text": "You can watch the full conversation here: https://t.co/PmWmxgnb9a",
-          "createdAt": "2026-03-30T19:54:28.000Z",
-          "url": "https://x.com/RayDalio/status/2038706444170617129",
-          "likes": 98,
-          "retweets": 11,
-          "replies": 4,
+          "id": "2039071986320609549",
+          "text": "A decision-making group in which those who don't get what they want continue to fight rather than work for what the group has decided is destined to fail--you can see this happening all the time in companies, organizations, and even political systems and nations. I'm not saying that people should pretend they like the decision if they don't, or that the matter in question can't be revisited at a future date. What I am saying is that in order to be effective, all groups that work together have to operate with protocols that allow time for disagreements to be explored, but in which dissenting minority parties recognize that group cohesion supersedes their individual desires once they have been overruled. #principleoftheday",
+          "createdAt": "2026-03-31T20:07:00.000Z",
+          "url": "https://x.com/RayDalio/status/2039071986320609549",
+          "likes": 372,
+          "retweets": 58,
+          "replies": 46,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2038705062222926062",
-          "text": "If I could give my younger self one piece of advice, it would be this: Your capacity to learn is far greater than your current knowledge.\n\nMany people let the need to be \"smart\" get in the way of open-mindedness. But if you can view life as an adventure and approach disagreement with curiosity instead of anger, you'll find yourself evolving to higher and higher levels.",
-          "createdAt": "2026-03-30T19:48:58.000Z",
-          "url": "https://x.com/RayDalio/status/2038705062222926062",
-          "likes": 1834,
-          "retweets": 345,
-          "replies": 89,
+          "id": "2038998996207751624",
+          "text": "You can watch the full episode here: https://t.co/Sl1P9EvYDE",
+          "createdAt": "2026-03-31T15:16:58.000Z",
+          "url": "https://x.com/RayDalio/status/2038998996207751624",
+          "likes": 154,
+          "retweets": 27,
+          "replies": 5,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2038641289919443442",
-          "text": "Most people fight seeing what’s true when it’s not what they want it to be. That’s bad, because it is more important to understand and deal with the bad stuff since the good stuff will take care of itself. #principleoftheday https://t.co/cOl6qVvOxt",
-          "createdAt": "2026-03-30T15:35:34.000Z",
-          "url": "https://x.com/RayDalio/status/2038641289919443442",
-          "likes": 614,
-          "retweets": 91,
-          "replies": 58,
+          "id": "2038998992311251446",
+          "text": "When an empire runs out of its own money, it is able to increase the supply of money. However, printing more money causes borrowing to increase creating a financial bubble. I urge you to watch “Principles for Dealing with the Changing World Order” on my YouTube channel in the comments below to understand how, and what it means for all of us.",
+          "createdAt": "2026-03-31T15:16:57.000Z",
+          "url": "https://x.com/RayDalio/status/2038998992311251446",
+          "likes": 2435,
+          "retweets": 526,
+          "replies": 91,
           "isQuote": false,
           "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Bill Ackman",
-      "handle": "BillAckman",
-      "role": "Pershing Square CEO",
-      "bio": "CEO Pershing Square, Co-trustee @PershingSqFdn",
-      "tweets": [
-        {
-          "id": "2038579323733459412",
-          "text": "Well said. https://t.co/o5tNJF4oUM",
-          "createdAt": "2026-03-30T11:29:20.000Z",
-          "url": "https://x.com/BillAckman/status/2038579323733459412",
-          "likes": 1694,
-          "retweets": 102,
-          "replies": 83,
-          "isQuote": true,
-          "quotedTweetId": "2038549048379244743"
         }
       ]
     },
@@ -72,26 +52,59 @@
       "bio": "God is in the details.",
       "tweets": [
         {
-          "id": "2038746597568418034",
-          "text": "Here is a good and useful walkthrough of what Software Factory is and what it can do...feel free to watch if you are curious. https://t.co/T7MzoJGAtL",
-          "createdAt": "2026-03-30T22:34:01.000Z",
-          "url": "https://x.com/chamath/status/2038746597568418034",
-          "likes": 160,
-          "retweets": 11,
-          "replies": 24,
+          "id": "2039096486634602501",
+          "text": "goddamn...wow. https://t.co/T7S2dJiguG",
+          "createdAt": "2026-03-31T21:44:21.000Z",
+          "url": "https://x.com/chamath/status/2039096486634602501",
+          "likes": 1529,
+          "retweets": 52,
+          "replies": 147,
           "isQuote": true,
-          "quotedTweetId": "2038719445913448686"
+          "quotedTweetId": "2039073153922539901"
         },
         {
-          "id": "2038627451648217221",
-          "text": "Most people are self destructive. \n\nThey don’t see themselves as on this path. Nor are willing to put in the effort to give their kids this shot. So they’d just rather steal from those who made it. \n\nBut these same people will drive California into bankruptcy by doing it. These kinds of taxes only work at the national level where moving states isn’t enough. \n\nAlso, when California goes through the eventual bankruptcy that will be caused by the capital flight from this bill, I don’t see the rest of the union stepping in.",
-          "createdAt": "2026-03-30T14:40:34.000Z",
-          "url": "https://x.com/chamath/status/2038627451648217221",
-          "likes": 1281,
-          "retweets": 119,
-          "replies": 100,
+          "id": "2039024315916820926",
+          "text": "https://t.co/8xzX5eg8ox",
+          "createdAt": "2026-03-31T16:57:34.000Z",
+          "url": "https://x.com/chamath/status/2039024315916820926",
+          "likes": 36,
+          "retweets": 3,
+          "replies": 14,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2039024130050478193",
+          "text": "I mentioned this last year on @theallinpod and the crypto bros freaked out.\n\nTwo things are true about crypto bros: they are extremely technical and extremely belief oriented. \n\nSometimes, though, the latter clouds the former. \n\nThis paper from Google, though, is quite reasonable and raises some important technical questions. \n\nIf you believe in AI leading to AGI/ASI in the semi near future, the most obvious honeypot to point an AGI/ASI to is cracking a crypto project like Bitcoin. Essentially becomes free money. \n\nThe crypto elders should start spending more effort organizing on a timescale that makes crypto quantum resistant / proof in these next few years with a conclusive roadmap.",
+          "createdAt": "2026-03-31T16:56:50.000Z",
+          "url": "https://x.com/chamath/status/2039024130050478193",
+          "likes": 1072,
+          "retweets": 83,
+          "replies": 299,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2039018110943130015",
+          "text": "How can this be real?\n\nIs this a skit? If so, it’s superbly acted. \n\nIf it’s real, we need to find this young lady and shake some common sense into her… https://t.co/wv07zZG3W7",
+          "createdAt": "2026-03-31T16:32:55.000Z",
+          "url": "https://x.com/chamath/status/2039018110943130015",
+          "likes": 3302,
+          "retweets": 151,
+          "replies": 307,
           "isQuote": true,
-          "quotedTweetId": "2038551854418661745"
+          "quotedTweetId": "2038967293343096896"
+        },
+        {
+          "id": "2039005851709853923",
+          "text": "People bag on me to soothe themselves because they started with much more than me but are losers and accomplished nothing. \n\nI started with nothing. Definitely made some mistakes. Definitely had some bad deals (SPACs!) but I always stayed in the game and kept grinding. Most everyone else just complains. The rest quit never to be heard from again. \n\nMeanwhile, if you were an LP in my funds the money printer has definitely gone brrrrr in your favor for quite some time. DPI!!!!\n\nAnother few hundred million sent out today. \n\nThanks for your friendship and support Farhan!! ❤️‍🔥🥰🤑🥳",
+          "createdAt": "2026-03-31T15:44:12.000Z",
+          "url": "https://x.com/chamath/status/2039005851709853923",
+          "likes": 1025,
+          "retweets": 34,
+          "replies": 148,
+          "isQuote": true,
+          "quotedTweetId": "2039001079866638512"
         }
       ]
     },
@@ -103,26 +116,46 @@
       "bio": "https://t.co/SqAanFKORB. https://t.co/NbcMFHWbR4. Chaotic good.",
       "tweets": [
         {
-          "id": "2038785108711240154",
-          "text": "The whole AIPAC thing among the left is revolting. Saying “I won’t accept contributions from AIPAC” is their shockingly successful way to say “I’m hostile to mainstream Jews”. It’s way better than saying “I’m not an antisemite, I’m antizionist”. Notice that many sitting elected officials have happily taken this up and their primary voters know exactly what they mean.",
-          "createdAt": "2026-03-31T01:07:03.000Z",
-          "url": "https://x.com/CliffordAsness/status/2038785108711240154",
-          "likes": 304,
-          "retweets": 30,
-          "replies": 18,
-          "isQuote": true,
-          "quotedTweetId": "2038777032570556446"
+          "id": "2039045273716961421",
+          "text": "The two other liberals justices, Kagan and Sotomayor, seemed to be able to rule based on the Constitution this time (not that I have any expertise as to who is right). But Jackson, again, only seems to cite what she thinks should/could happen not, you know, the Constitutional law https://t.co/1rnFjXH4ZK",
+          "createdAt": "2026-03-31T18:20:51.000Z",
+          "url": "https://x.com/CliffordAsness/status/2039045273716961421",
+          "likes": 146,
+          "retweets": 4,
+          "replies": 11,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Michael Burry",
+      "handle": "michaeljburry",
+      "role": "Scion Asset Management",
+      "bio": "Official X account for Michael Burry, MD, called \"Cassandra\" by Warren Buffett. Now on Substack with the full story.",
+      "tweets": [
+        {
+          "id": "2038973378904601089",
+          "text": "Woke up humming this today. \n\nAmon Amarth - Victorious March (Live) https://t.co/Af3Ngx6Gbg",
+          "createdAt": "2026-03-31T13:35:10.000Z",
+          "url": "https://x.com/michaeljburry/status/2038973378904601089",
+          "likes": 613,
+          "retweets": 55,
+          "replies": 64,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2038777032570556446",
-          "text": "The new Tom Steyer has moved on from elitist environmentalism to omnicause leftist populism, with a particular focus on bashing corporations and Jews. Not surprisingly, this version is gaining more traction with primary voters. Pathetic creature. https://t.co/ZIqw6ymrub",
-          "createdAt": "2026-03-31T00:34:57.000Z",
-          "url": "https://x.com/CliffordAsness/status/2038777032570556446",
-          "likes": 297,
-          "retweets": 19,
-          "replies": 11,
-          "isQuote": true,
-          "quotedTweetId": "2038679533004443708"
+          "id": "2038965439909232717",
+          "text": "Shorts are not forever.",
+          "createdAt": "2026-03-31T13:03:37.000Z",
+          "url": "https://x.com/michaeljburry/status/2038965439909232717",
+          "likes": 8832,
+          "retweets": 1363,
+          "replies": 668,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -134,110 +167,24 @@
       "bio": "Founder & President, Forest for the Trees (FFTT).  Author of \"The Mr. X Interviews, Volumes I & II.”  I never solicit via DM's.  RT not endorsements.",
       "tweets": [
         {
-          "id": "2038764403676368919",
-          "text": "Missiles &gt; insurance https://t.co/kUsQa5r7Wx",
-          "createdAt": "2026-03-30T23:44:46.000Z",
-          "url": "https://x.com/LukeGromen/status/2038764403676368919",
-          "likes": 328,
-          "retweets": 31,
-          "replies": 17,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2038604200444137735",
-          "text": "That is like trying to lose a lot of weight by stopping breathing\n\nEffective but fatal https://t.co/UU7R1ADMDW",
-          "createdAt": "2026-03-30T13:08:11.000Z",
-          "url": "https://x.com/LukeGromen/status/2038604200444137735",
-          "likes": 281,
-          "retweets": 11,
-          "replies": 24,
+          "id": "2039044805301264824",
+          "text": "🤔 https://t.co/BsViZvr2r2",
+          "createdAt": "2026-03-31T18:18:59.000Z",
+          "url": "https://x.com/LukeGromen/status/2039044805301264824",
+          "likes": 402,
+          "retweets": 24,
+          "replies": 53,
           "isQuote": true,
-          "quotedTweetId": "2038394562972876874"
+          "quotedTweetId": "2038898987831279850"
         },
         {
-          "id": "2038601206356942999",
-          "text": "Geopolitical equivalent of “as the debtor nation, we have all the leverage v. China in trade negotiations”, “DOGE will save $1-2 trillion because Elon is in charge”, and “one shot is 95% effective” https://t.co/wADekGKT15",
-          "createdAt": "2026-03-30T12:56:17.000Z",
-          "url": "https://x.com/LukeGromen/status/2038601206356942999",
-          "likes": 590,
-          "retweets": 57,
-          "replies": 25,
-          "isQuote": true,
-          "quotedTweetId": "2038437760051065202"
-        },
-        {
-          "id": "2038594968202166420",
-          "text": "So Iran is “defeated” (per Karoline Leavitt yesterday) with a “new and more reasonable regime” in charge…and yet Hormuz is still not open?  🤔 https://t.co/HQqiKfhcrY",
-          "createdAt": "2026-03-30T12:31:30.000Z",
-          "url": "https://x.com/LukeGromen/status/2038594968202166420",
-          "likes": 1196,
-          "retweets": 92,
-          "replies": 156,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Lyn Alden",
-      "handle": "LynAldenContact",
-      "role": "独立宏观研究",
-      "bio": "Author of Broken Money & The Stolguard Incident. Investor with a blended engineering/finance background. GP @egodeathcapital. Director at Bakkt & @Swan.",
-      "tweets": [
-        {
-          "id": "2038383776875602344",
-          "text": "Yes. https://t.co/9J04vWZVI5",
-          "createdAt": "2026-03-29T22:32:18.000Z",
-          "url": "https://x.com/LynAldenContact/status/2038383776875602344",
-          "likes": 185,
-          "retweets": 2,
-          "replies": 10,
-          "isQuote": true,
-          "quotedTweetId": "2038051859756404880"
-        },
-        {
-          "id": "2038372791137849371",
-          "text": "The best-ever pizza days often start with these stories. https://t.co/jL0iarsoLr",
-          "createdAt": "2026-03-29T21:48:39.000Z",
-          "url": "https://x.com/LynAldenContact/status/2038372791137849371",
-          "likes": 100,
-          "retweets": 2,
-          "replies": 12,
-          "isQuote": true,
-          "quotedTweetId": "2038372346633859441"
-        },
-        {
-          "id": "2038368748172685675",
-          "text": "👍🙏🇯🇵 https://t.co/QDoioLvzZM",
-          "createdAt": "2026-03-29T21:32:35.000Z",
-          "url": "https://x.com/LynAldenContact/status/2038368748172685675",
-          "likes": 93,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2037901819246989389"
-        },
-        {
-          "id": "2038368142989103152",
-          "text": "In a world of chaos, the latest algo update shows that at least one thing remains true:\n\n-Many Americans are fascinated by the Japanese, and many Japanese are fascinated by the Americans.\n\nHello to the land of the rising sun. I’m happy to meet you. 🇯🇵 https://t.co/c9ed7uxE79",
-          "createdAt": "2026-03-29T21:30:10.000Z",
-          "url": "https://x.com/LynAldenContact/status/2038368142989103152",
-          "likes": 1309,
-          "retweets": 32,
-          "replies": 49,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2038340250645189055",
-          "text": "Anthony, @Scaramucci , what is your opinion on the quality of New Jersey pizza? Made by good Italian places.\n\nHow would you rank it vs NYC or Chicago?",
-          "createdAt": "2026-03-29T19:39:20.000Z",
-          "url": "https://x.com/LynAldenContact/status/2038340250645189055",
-          "likes": 34,
-          "retweets": 0,
-          "replies": 24,
+          "id": "2038971180552474704",
+          "text": "\"Foreign central bank holdings of USTs at NY Fed fall to lowest level since 2012 in wake of Iran war\"\n\nVia @seaniechaos https://t.co/VIiwJqrZAY",
+          "createdAt": "2026-03-31T13:26:26.000Z",
+          "url": "https://x.com/LukeGromen/status/2038971180552474704",
+          "likes": 650,
+          "retweets": 101,
+          "replies": 39,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -251,41 +198,43 @@
       "bio": "Macro investment research at https://t.co/hQqAza8GGP\n\nOur total return index is at https://t.co/vta9eqevnU\nThe ETF WTBN tracks our Index.\n\nbiancoresearch.eth",
       "tweets": [
         {
-          "id": "2038786859892085141",
-          "text": "This would be an economic disaster. https://t.co/E7tc4ck4Y3",
-          "createdAt": "2026-03-31T01:14:00.000Z",
-          "url": "https://x.com/biancoresearch/status/2038786859892085141",
-          "likes": 1165,
-          "retweets": 157,
-          "replies": 373,
-          "isQuote": true,
-          "quotedTweetId": "2038779772428275953"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Jeff Gundlach",
-      "handle": "TruthGundlach",
-      "role": "DoubleLine CEO",
-      "bio": "Bills fan. Art fan. Truth fan. DoubleLine Founder.",
-      "tweets": [
-        {
-          "id": "2038771142413136362",
-          "text": "Quote of the day from DoubleLine’s monthly deep dive strategy meeting, from one of our talented credit managers:\n\n“There’s a little bit of upside and a lot of bit of downside.”",
-          "createdAt": "2026-03-31T00:11:33.000Z",
-          "url": "https://x.com/TruthGundlach/status/2038771142413136362",
-          "likes": 443,
-          "retweets": 38,
-          "replies": 0,
+          "id": "2039132927511134658",
+          "text": "*TRUMP TO ADDRESS NATION ON IRAN 9PM ET WEDNESDAY: LEAVITT",
+          "createdAt": "2026-04-01T00:09:09.000Z",
+          "url": "https://x.com/biancoresearch/status/2039132927511134658",
+          "likes": 204,
+          "retweets": 9,
+          "replies": 49,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2039044601496129622",
+          "text": "*US AVERAGE RETAIL GASOLINE RALLIES ABOVE $4/GALLON, AAA SAYS https://t.co/72hle4mOa8",
+          "createdAt": "2026-03-31T18:18:11.000Z",
+          "url": "https://x.com/biancoresearch/status/2039044601496129622",
+          "likes": 132,
+          "retweets": 16,
+          "replies": 18,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2039034612207472888",
+          "text": "Please explain why, having this technology, you would focus on Bitcoin? \n\nWhy not Fedwire, and take trillions from the banking industry?\n\nDo hackers really think this small? https://t.co/OjG4LOCVL3",
+          "createdAt": "2026-03-31T17:38:29.000Z",
+          "url": "https://x.com/biancoresearch/status/2039034612207472888",
+          "likes": 1639,
+          "retweets": 112,
+          "replies": 333,
+          "isQuote": true,
+          "quotedTweetId": "2039009853671145648"
         }
       ]
     }
   ],
   "stats": {
-    "xInvestors": 8,
-    "totalTweets": 19
+    "xInvestors": 6,
+    "totalTweets": 16
   }
 }
