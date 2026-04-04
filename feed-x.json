@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T09:12:55.837Z",
+  "generatedAt": "2026-04-04T09:02:27.414Z",
   "lookbackHours": 48,
   "x": [
     {
@@ -10,24 +10,13 @@
       "bio": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
       "tweets": [
         {
-          "id": "2039801291795280148",
-          "text": "In an idea meritocracy, there is bound to be more disagreement than in a typical organization, but when it's taken to an extreme, arguing and nitpicking can undermine the idea meritocracy's effectiveness. At Bridgewater, I have encountered some people, especially junior people, who mistakenly think they are entitled to argue about whatever they want and with whomever they please. I have even seen people band together to threaten the idea meritocracy, claiming that their right to do so comes from the principles. They misunderstand my principles and the boundaries within the organization. They must abide by the rules of the system, which provide paths for resolving disagreements, and they mustn't threaten the system. #principleoftheday",
-          "createdAt": "2026-04-02T20:25:00.000Z",
-          "url": "https://x.com/RayDalio/status/2039801291795280148",
-          "likes": 254,
-          "retweets": 33,
-          "replies": 30,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2039728468603085184",
-          "text": "When you’ve been in the markets for as long as I have, you tend to become a hyperrealist.\n\nI’m not idealistic so I don’t get demoralized by things that happen. Instead, I view everything as a learning experience. Things that happen are interesting and informative and can tell you a lot about the various systems at play.\n\nThat’s my view in general, and it’s also how I feel about the decisions that continue to raise the US debt.",
-          "createdAt": "2026-04-02T15:35:37.000Z",
-          "url": "https://x.com/RayDalio/status/2039728468603085184",
-          "likes": 326,
-          "retweets": 37,
-          "replies": 29,
+          "id": "2040051091686002795",
+          "text": "Learning is the product of a continuous real-time feedback loop in which we make decisions, see their outcomes, and improve our understanding of reality as a result. Being radically open-minded enhances the efficiency of those feedback loops, because it makes what you are doing, and why, so clear to yourself and others that there can't be any misunderstandings. The more open-minded you are, the less likely you are to deceive yourself-- and the more likely it is that others will give you honest feedback. If they are \"believable\" people (and it's very important to know who is \"believable\"), you will learn a lot from them.\n\nBeing radically transparent and radically open-minded accelerates this learning process. It can also be difficult because being radically transparent rather than more guarded exposes one to criticism. It's natural to fear that. Yet if you don't put yourself out there with your radical transparency, you won't learn. #principleoftheday",
+          "createdAt": "2026-04-03T12:57:37.000Z",
+          "url": "https://x.com/RayDalio/status/2040051091686002795",
+          "likes": 531,
+          "retweets": 69,
+          "replies": 53,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -41,37 +30,15 @@
       "bio": "CEO Pershing Square, Co-trustee @PershingSqFdn",
       "tweets": [
         {
-          "id": "2039665231970935239",
-          "text": "Europe is on a path to destroying itself.  \n\nUnchecked immigration of millions of immigrants that burden their welfare states, bring violence and terrorism to their shores, and take over local governance, one city at a time. \n\nAnti-capitalist policies that make it difficult for businesses to adapt their workforces to a rapidly changing competitive environment now accelerating due to AI. \n\nA business environment and tax regime that is antithetical to startups.\n\nThe absence of any progress or innovation in AI and limited access to the compute necessary to compete.  \n\nEnergy dependence due to the green movement at a moment when energy demands are rapidly increasing. \n\nAnd now, the abandonment of the U.S. when we have asked for limited assistance — base access and flyover rights — in the midst of our efforts to eliminate Iran’s nuclear and ballistic threat which is already within striking range of Europe, after we have invested nearly $200 billion in helping Ukraine.\n\nNATO is about to be toast. Europe’s defense burden is about to rise massively while their economies continue to fall further and further behind. \n\nIn short, Europe needs to wake up before it is too late, and it may very well be too late.",
-          "createdAt": "2026-04-02T11:24:21.000Z",
-          "url": "https://x.com/BillAckman/status/2039665231970935239",
-          "likes": 18076,
-          "retweets": 3114,
-          "replies": 2011,
+          "id": "2040147075619340483",
+          "text": "A must watch on why the policies and the judges that release violent criminals from jail must be changed. https://t.co/ljF78cg0t8",
+          "createdAt": "2026-04-03T19:19:01.000Z",
+          "url": "https://x.com/BillAckman/status/2040147075619340483",
+          "likes": 13330,
+          "retweets": 3370,
+          "replies": 578,
           "isQuote": true,
-          "quotedTweetId": "2039655866786336830"
-        },
-        {
-          "id": "2039658809925190038",
-          "text": "Perspective on the Artemis 2 journey.  Respect for the engineers, scientists, manufacturers, astronauts and others who make this possible. Incredible. https://t.co/zfgNJJ9HZF",
-          "createdAt": "2026-04-02T10:58:49.000Z",
-          "url": "https://x.com/BillAckman/status/2039658809925190038",
-          "likes": 2005,
-          "retweets": 191,
-          "replies": 63,
-          "isQuote": true,
-          "quotedTweetId": "2039551208117985414"
-        },
-        {
-          "id": "2039655866786336830",
-          "text": "An important read on Europe and NATO. https://t.co/vFBY2GYKzX",
-          "createdAt": "2026-04-02T10:47:08.000Z",
-          "url": "https://x.com/BillAckman/status/2039655866786336830",
-          "likes": 4909,
-          "retweets": 511,
-          "replies": 275,
-          "isQuote": true,
-          "quotedTweetId": "2039322644042977761"
+          "quotedTweetId": "2039900461126316399"
         }
       ]
     },
@@ -83,57 +50,24 @@
       "bio": "God is in the details.",
       "tweets": [
         {
-          "id": "2039837643341795826",
-          "text": "Starting my new role as a junior analyst at Anthropic on Monday. Wish me luck! https://t.co/jiPKRXSqax",
-          "createdAt": "2026-04-02T22:49:27.000Z",
-          "url": "https://x.com/chamath/status/2039837643341795826",
-          "likes": 1440,
-          "retweets": 26,
-          "replies": 95,
+          "id": "2040183812504825886",
+          "text": "don't worry. we are moving up and to the left. the days of 3-5% equity yields don't make sense sense if AGI is real. it isn't the safe harbor you think it is... https://t.co/unsqjo4ee1",
+          "createdAt": "2026-04-03T21:45:00.000Z",
+          "url": "https://x.com/chamath/status/2040183812504825886",
+          "likes": 516,
+          "retweets": 22,
+          "replies": 60,
           "isQuote": true,
-          "quotedTweetId": "2039830417533002026"
+          "quotedTweetId": "2040107716887077193"
         },
         {
-          "id": "2039738397519188020",
-          "text": "Meanwhile, our schools cry “budget cuts”and are graduating legions of kids who can barely read and do simple math. https://t.co/H0ciMDUuQh",
-          "createdAt": "2026-04-02T16:15:05.000Z",
-          "url": "https://x.com/chamath/status/2039738397519188020",
-          "likes": 2657,
-          "retweets": 391,
-          "replies": 90,
-          "isQuote": true,
-          "quotedTweetId": "2039385943480910170"
-        },
-        {
-          "id": "2039737542975873266",
-          "text": "Any Californian who votes for more taxes is some combination of a) naive b) unsophisticated and c) complicit in the fraud. https://t.co/YHVlzLCvy9",
-          "createdAt": "2026-04-02T16:11:41.000Z",
-          "url": "https://x.com/chamath/status/2039737542975873266",
-          "likes": 3861,
-          "retweets": 425,
-          "replies": 185,
-          "isQuote": true,
-          "quotedTweetId": "2039473926607184148"
-        },
-        {
-          "id": "2039719784972230833",
-          "text": "Impeach Newsom https://t.co/36TOkHRwFD",
-          "createdAt": "2026-04-02T15:01:07.000Z",
-          "url": "https://x.com/chamath/status/2039719784972230833",
-          "likes": 13254,
-          "retweets": 2261,
-          "replies": 586,
-          "isQuote": true,
-          "quotedTweetId": "2039497310519103843"
-        },
-        {
-          "id": "2039714935895408825",
-          "text": "In today’s episode of “Clapping as a Strategy”, this is probably nothing for crypto. https://t.co/gixf6NJ50E",
-          "createdAt": "2026-04-02T14:41:51.000Z",
-          "url": "https://x.com/chamath/status/2039714935895408825",
-          "likes": 271,
-          "retweets": 19,
-          "replies": 97,
+          "id": "2040128715024474479",
+          "text": "https://t.co/3yUWEm572T",
+          "createdAt": "2026-04-03T18:06:04.000Z",
+          "url": "https://x.com/chamath/status/2040128715024474479",
+          "likes": 475,
+          "retweets": 47,
+          "replies": 56,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -141,32 +75,21 @@
     },
     {
       "source": "x",
-      "name": "Cliff Asness",
-      "handle": "CliffordAsness",
-      "role": "AQR 联合创始人",
-      "bio": "https://t.co/SqAanFKORB. https://t.co/NbcMFHWbR4. Chaotic good.",
+      "name": "Raoul Pal",
+      "handle": "RaoulGMI",
+      "role": "Real Vision CEO",
+      "bio": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru.",
       "tweets": [
         {
-          "id": "2039883840756613260",
-          "text": "Thanks! https://t.co/suMemxXL8n",
-          "createdAt": "2026-04-03T01:53:01.000Z",
-          "url": "https://x.com/CliffordAsness/status/2039883840756613260",
-          "likes": 10,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2039877687070843156"
-        },
-        {
-          "id": "2039721597947482578",
-          "text": "Again? When was I “Scholar of the Year” before?\n\nDon’t get me wrong, I appreciate it :) https://t.co/HcrvWeu83v",
-          "createdAt": "2026-04-02T15:08:19.000Z",
-          "url": "https://x.com/CliffordAsness/status/2039721597947482578",
-          "likes": 10,
-          "retweets": 1,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2039516041093767290"
+          "id": "2040044086296506794",
+          "text": "Blockchain wasn't built for humans. It was built for machines. We just didn't know it yet. My conversation with Arpan from @0xbeepit on agents, money, and the invisible economy that's already going vertical.\n\nAs ever, please enjoy! https://t.co/tNGsUmGz3D",
+          "createdAt": "2026-04-03T12:29:47.000Z",
+          "url": "https://x.com/RaoulGMI/status/2040044086296506794",
+          "likes": 554,
+          "retweets": 70,
+          "replies": 65,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     },
@@ -178,59 +101,15 @@
       "bio": "Founder & President, Forest for the Trees (FFTT).  Author of \"The Mr. X Interviews, Volumes I & II.”  I never solicit via DM's.  RT not endorsements.",
       "tweets": [
         {
-          "id": "2039857935430406230",
-          "text": "Thank you for a lovely dinner conversation, @ProfessorWerner!  Really enjoyed it! https://t.co/mRO2EGde0m",
-          "createdAt": "2026-04-03T00:10:05.000Z",
-          "url": "https://x.com/LukeGromen/status/2039857935430406230",
-          "likes": 879,
-          "retweets": 32,
-          "replies": 68,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2039832834823598084",
-          "text": "Ghalibaf’s post of 3/24/26 on “paper v. physical oil” aged like fine wine: https://t.co/G31AqKSsf5 https://t.co/ast5scKJI5",
-          "createdAt": "2026-04-02T22:30:20.000Z",
-          "url": "https://x.com/LukeGromen/status/2039832834823598084",
-          "likes": 629,
-          "retweets": 93,
-          "replies": 31,
+          "id": "2040069113289101720",
+          "text": "Iranians accepting EUR....or French paying in CNY (after selling gold to China to get CNY)? https://t.co/nigX2tcryy",
+          "createdAt": "2026-04-03T14:09:13.000Z",
+          "url": "https://x.com/LukeGromen/status/2040069113289101720",
+          "likes": 658,
+          "retweets": 55,
+          "replies": 51,
           "isQuote": true,
-          "quotedTweetId": "2039809498454384922"
-        },
-        {
-          "id": "2039769935526686886",
-          "text": "This would only be a problem if China is the factory of the world and if there were semiconductors in most consumer goods these days.\n\nOh wait… https://t.co/WYZ9IrYIxv",
-          "createdAt": "2026-04-02T18:20:24.000Z",
-          "url": "https://x.com/LukeGromen/status/2039769935526686886",
-          "likes": 1244,
-          "retweets": 145,
-          "replies": 43,
-          "isQuote": true,
-          "quotedTweetId": "2039616114553200871"
-        },
-        {
-          "id": "2039734956654465144",
-          "text": "They’ll hold a meeting, realize they can’t open it if the US couldn’t, &amp; then just agree to pay Iran in CNY…\n\n…and the easiest/only way to secure CNY is by buying physical gold in USD and selling that gold to China in CNY.\n\nPeople selling gold today are likely to be sorry. https://t.co/esTCeeCvS9",
-          "createdAt": "2026-04-02T16:01:24.000Z",
-          "url": "https://x.com/LukeGromen/status/2039734956654465144",
-          "likes": 1916,
-          "retweets": 262,
-          "replies": 124,
-          "isQuote": true,
-          "quotedTweetId": "2039713680032715259"
-        },
-        {
-          "id": "2039677773774557395",
-          "text": "More evidence US and Israeli interceptor missiles are running down faster than Iranian offensive weapons\n\nUS, Israel, &amp; Iran are all dependent on China’s factory base to replenish their missiles.\n\nWho gets priority?  Logistics &gt; tactics. https://t.co/ibrnuEKAjs",
-          "createdAt": "2026-04-02T12:14:11.000Z",
-          "url": "https://x.com/LukeGromen/status/2039677773774557395",
-          "likes": 606,
-          "retweets": 82,
-          "replies": 69,
-          "isQuote": true,
-          "quotedTweetId": "2039354885695496428"
+          "quotedTweetId": "2039968760363172028"
         }
       ]
     },
@@ -242,24 +121,57 @@
       "bio": "Author of Broken Money & The Stolguard Incident. Investor with a blended engineering/finance background. GP @egodeathcapital. Director at Bakkt & @Swan.",
       "tweets": [
         {
-          "id": "2039717068648358276",
-          "text": "https://t.co/cb9VoweN9L https://t.co/fctEwraoFr",
-          "createdAt": "2026-04-02T14:50:19.000Z",
-          "url": "https://x.com/LynAldenContact/status/2039717068648358276",
-          "likes": 219,
+          "id": "2040194965695856743",
+          "text": "The ideal scenario is to find/develop your own authorial voice, and then refine it to make it the cleanest, optimal form of your style that you can. https://t.co/lfoj199Rpn",
+          "createdAt": "2026-04-03T22:29:19.000Z",
+          "url": "https://x.com/LynAldenContact/status/2040194965695856743",
+          "likes": 123,
           "retweets": 9,
-          "replies": 16,
+          "replies": 14,
           "isQuote": true,
-          "quotedTweetId": "2039709514790814166"
+          "quotedTweetId": "2040191395701371291"
         },
         {
-          "id": "2039640272666009717",
-          "text": "For those awake at this hour, I’m hopping on CNBC’s Morning Call.",
-          "createdAt": "2026-04-02T09:45:10.000Z",
-          "url": "https://x.com/LynAldenContact/status/2039640272666009717",
-          "likes": 1604,
-          "retweets": 28,
-          "replies": 65,
+          "id": "2040171673911976060",
+          "text": "I'm not naturally talented on fiction prose.\n\nI just really, *really* respect my reader's time and attention to make it immersive, and put disproportionate effort and autism into every single sentence to optimize your visual clarity, emotional impact, and dialog realism. https://t.co/EPyoztZWCH",
+          "createdAt": "2026-04-03T20:56:46.000Z",
+          "url": "https://x.com/LynAldenContact/status/2040171673911976060",
+          "likes": 142,
+          "retweets": 3,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2040171663958929822",
+          "text": "I then invested time and money for (human) beta readers and editors try to pick apart the story for clarity, logic, grammar, etc.\n\nI iterated on all the tiny frictions wherever identified.\n\nMy husband was a fantastic alpha reader and developmental editor, especially on dialog.",
+          "createdAt": "2026-04-03T20:56:43.000Z",
+          "url": "https://x.com/LynAldenContact/status/2040171663958929822",
+          "likes": 60,
+          "retweets": 3,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2040171662671298853",
+          "text": "There's no world where I'd be a poet. Literary.\n\nBut I don't like pulp fiction prose either. They write fast, don't optimize for quality sentence structure.\n\nI studied/maximized for clarity and feeling, so you could see the scene, and feel what they feel.\n\nPut crazy work into it.",
+          "createdAt": "2026-04-03T20:56:43.000Z",
+          "url": "https://x.com/LynAldenContact/status/2040171662671298853",
+          "likes": 77,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2040171661320655179",
+          "text": "Some prose is very artful. Very poetic. Very literary. Like reading a story through a gorgeous stained glass window.\n\nOther prose is transparent/direct. It translates the feelings and actions clearly. You don't see the words, you see the scene. Through clear glass.",
+          "createdAt": "2026-04-03T20:56:43.000Z",
+          "url": "https://x.com/LynAldenContact/status/2040171661320655179",
+          "likes": 57,
+          "retweets": 2,
+          "replies": 7,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -273,26 +185,26 @@
       "bio": "Macro investment research at https://t.co/hQqAza8GGP\n\nOur total return index is at https://t.co/vta9eqevnU\nThe ETF WTBN tracks our Index.\n\nbiancoresearch.eth",
       "tweets": [
         {
-          "id": "2039892685927199018",
-          "text": "Follow up\n\nI said the answer is a defensive shield, that is not an offensive campaign killing a lot of people.\n\nI also said Ukraine has the expertise to make this happen. \n\nI should have said they were able to do this with the Black Sea, so they have proven this capability.",
-          "createdAt": "2026-04-03T02:28:10.000Z",
-          "url": "https://x.com/biancoresearch/status/2039892685927199018",
-          "likes": 66,
-          "retweets": 1,
-          "replies": 24,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2040083581809398006",
+          "text": "How the Ukraine can open the Strait of Hormuz https://t.co/16qjUVGau2",
+          "createdAt": "2026-04-03T15:06:43.000Z",
+          "url": "https://x.com/biancoresearch/status/2040083581809398006",
+          "likes": 78,
+          "retweets": 7,
+          "replies": 29,
+          "isQuote": true,
+          "quotedTweetId": "2040031578466795601"
         },
         {
-          "id": "2039873938449387699",
-          "text": "I am not a military analyst. I'm a financial analyst focused on macroeconomic risk. \n\nThat different lens might explain why I see something most military strategists and investors are missing.\n---\nThe New Rules of Warfare—And Why We Can't Opt Out\n\nFor nearly a century, warfare belonged to whoever controlled the biggest defense budget. Aircraft carriers. Stealth bombers. Multibillion-dollar weapons systems. \n\nThat model is changing in ways many aren't appreciating.\n\nUkraine and Iran are showing the West what 21st-century conflict actually looks like: decentralized, highly iterative, fast-changing, unmanned, and cheap. Neither the US nor Russia—beginning in 2022—appears prepared.\n\nWe might now have no choice but to show we can fight and win such a war.\n\nThe Ukraine Approach\n\nFaced with a small defense budget, a much smaller population, and a vastly outnumbered army, Ukraine had to get creative. They couldn't match Russia's industrial capacity or spending. So they abandoned that playbook entirely.\n\nThey developed an entirely new way to fight, highly decentralized, iterative, and most importantly, cheap.\nThey also created Brave1—a completely new way to conduct war. \n\nFrontline commanders log into an iPad and bypass central command entirely. They spend digital points to purchase equipment directly from hundreds of (Ukrainian) manufacturers. When they encounter a new threat, they message the manufacturer directly and work with the engineers to find a solution, even if that means they visit to the front. The result is hardware or software upgrades that once took months now take days.\n\nHere's the crucial part: hundreds of manufacturers compete fiercely for these dollars by offering the best possible product as fast as possible. This isn't centralized procurement. It's a market. Competition drives innovation at scale. Weapons evolve as the enemy evolves in real time.\n\nUnits are also awarded points for confirmed kills, uploaded from drone video—a powerfully eloquent way to grade effectiveness.\n\nBut the real innovation might be how they decentralized manufacturing itself. Instead of building weapons in massive, centralized factories that make perfect targets for Russian bombing, Ukraine distributed production across hundreds of small manufacturers—workshops, machine shops, garages, and yes, kitchens. Each produces components or complete systems. This approach serves two purposes: speed and survival.\n\nYou can bomb a tank factory. You destroy production for months. You cannot bomb ten thousand kitchens. If one workshop gets hit, ninety-nine others keep producing. The network regenerates faster than Russia can destroy it. This is why the manufacturing process includes actual kitchens—it's not a metaphor. It's a strategy.\n\nThe Metric That Defines a New Era\n\nThe result is staggering: at least 70% of battlefield casualties now come from drones. This is the first time in over a century that the primary cause of combat death is neither a bullet nor an artillery shell. Since World War I, industrial warfare meant industrial killing. Ukraine has broken that equation entirely.\n\nAs a result, Russia is now controlling less territory than at any point since 2022 and going backward. In March, Ukraine made gains while Russia recorded no gains for the first time in two and a half years, and Drone-led offensives recaptured 470 square kilometers while paralyzing 40% of Russian oil exports.\n\nUkraine has lowered the \"cost per kill\" to less than $1,000 per casualty—a 99.98% reduction from the millions of dollars that were common in the post-9/11 wars. This isn't an incremental improvement. This is a complete inversion of modern military economics.\nYet the Western defense establishment is not learning from this. \n\nRheinmetall CEO Armin Papperger mocked Ukraine's entire approach. In The Atlantic, he called Ukrainian manufacturers \"housewives with 3D printers,\" dismissing their work as \"playing with Legos.\" They are not studying this revolution. They are mocking it.\n\nAnd the \"housewives with 3D printers\" are beating the Russian army!\n\nUkraine Is Now in the Middle East\n\nThe US Military and Gulf states face an eerily similar problem. Iran's Shahed drones threaten shipping in the Strait of Hormuz—a chokepoint that funnels 21% of global oil. They cannot fend off Iran by firing a $4 million Patriot missiles at $20,000 drones.\n\nThey need what Ukraine has discovered: a decentralized, rapidly adaptive defense network that doesn't require centralized industrial capacity.\n\nThat's why Ukraine just signed historic 10-year defense deals with Saudi Arabia, Qatar, and the UAE. \n\nOver 220 Ukrainian specialists are now on the front lines of the Persian Gulf—exporting not just weapons, but a completely new doctrine of how to fight.\n\nThe precedent is set. The model works. Everyone is watching.\n\nMosaic \n\nOn April 1st, Trump threatened to bomb Iran \"back to the stone ages\" if they don't reopen the Strait within weeks.\n\nIt's the classic 20th-century playbook: overwhelming offense force, massive bombardment, industrial-scale destruction.\n\nThe problem? That playbook doesn't work against distributed, cheap, rapid-iteration systems—especially when your enemy is organized under a mosaic structure.\n\nIran's \"Mosaic Defense\" doctrine is a decentralized command system where authority and capability are distributed across multiple geographic and organizational nodes.\n\nEach region operates semi-autonomously with overlapping chains of command and pre-planned contingencies. It's designed so that when you destroy the center, the edges keep fighting. You cannot decapitate a system with no head. You cannot out-bomb your way to victory when your enemy is not centralized; this was the solution for 20th-century industrial warfare.\n\nDefense Wins Championships\n\n21st-century asymmetrical threats require defensive shields, not aggressive offenses. Ukraine has built exactly that: rapid-iteration defenses, decentralized manufacturing, commanders empowered to buy solutions in real time and rewarded for success. \n\nThat same defensive model may hold the key to opening the Strait of Hormuz. Not through massive offense, but through the ability to adapt and defend quickly.\n\nWhy We're Stuck\n\nWhether you viewed this as a war of choice or not, it has now become a war to keep global trade open. And that makes it inescapable.\n\nThis is precisely why the US cannot declare victory and walk away from the Strait of Hormuz— or TACO. \n\nEvery adversary on the planet will interpret American withdrawal as confirmation that cheap asymmetric systems work against powerful centralized platforms.\n\nAnd these adversaries might have sent us a message last month. In mid-March 2026, an unauthorized drone swarm penetrated Barksdale Air Force Base in Louisiana, home to the U.S. Air Force's Global Strike Command.\n\nThe fact that this happened not overseas but in the United States, and that these tests occurred just weeks ago, underscores how close this threat is now. \n\nThey didn't attack. They announced their presence. Every adversary watching learned that cheap drone networks can reach into the US.\n\nThe Global Supply Chain Risk\n\nIf the US abandons the Gulf while Iran holds the Strait contested, markets will price this as validation that cheap systems can hold global trade hostage. The current market disruptions will become permanent.\n\nSupply chains will have to pivot from \"just-in-time\" efficiency back to \"just-in-case\" redundancy. Inflation returns as safety costs money. Trade routes diversify away from vulnerable chokepoints. The global friction tax becomes permanent.\n\nThe Unavoidable Truth\n\nOnce you prove that cheap, asymmetric systems can hold global trade hostage, that knowledge spreads globally and irreversibly. Every adversary learns the same lesson: you don't need a $2 trillion Navy—you need $20 million in drones and the will to use them.\n\nWithdrawing while the Strait remains contested would permanently validate this model. Supply chains shift to \"just-in-case\" redundancy. Insurance costs rise. The friction tax becomes structural—baked into every global transaction for decades.\n\nThe cost of staying is measured in months. The cost of leaving is measured in decades of economic drag.\n\nWe cannot leave unfinished business.",
-          "createdAt": "2026-04-03T01:13:40.000Z",
-          "url": "https://x.com/biancoresearch/status/2039873938449387699",
-          "likes": 733,
-          "retweets": 133,
-          "replies": 163,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2040071979794083875",
+          "text": "Can he do it?\n\nHe did it in the Black Sea against Russia.\nNo one else has this track record.\n\nhttps://t.co/4rq8sflvW1 https://t.co/QpgNhE9FvM",
+          "createdAt": "2026-04-03T14:20:37.000Z",
+          "url": "https://x.com/biancoresearch/status/2040071979794083875",
+          "likes": 78,
+          "retweets": 4,
+          "replies": 30,
+          "isQuote": true,
+          "quotedTweetId": "2039873938449387699"
         }
       ]
     },
@@ -304,43 +216,63 @@
       "bio": "Bills fan. Art fan. Truth fan. DoubleLine Founder.",
       "tweets": [
         {
-          "id": "2039863980878123443",
-          "text": "Just the administration of the proposed California “Billionaire Tax”, as drafted, would clearly violate the US Constitution’s Fourth Amendment, prohibiting “unreasonable search and seizure”.",
-          "createdAt": "2026-04-03T00:34:06.000Z",
-          "url": "https://x.com/TruthGundlach/status/2039863980878123443",
-          "likes": 429,
-          "retweets": 32,
+          "id": "2040282332050166185",
+          "text": "Several months ago a major Private Credit fund marked its portfolio down 19% overnight.  Sounds bad, because it is bad.\n\nDid all of the loans get marked down 19% in a single day.\nOr did 50% of the loans get marked down 38% in a single day.\nOr did 25% of the loans  get marked down 76% in a single day.\n\nWhich explanation is worse?\n\nAll of them.",
+          "createdAt": "2026-04-04T04:16:29.000Z",
+          "url": "https://x.com/TruthGundlach/status/2040282332050166185",
+          "likes": 491,
+          "retweets": 65,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2039833860155052342",
-          "text": "“Beware the ides of June.”",
-          "createdAt": "2026-04-02T22:34:25.000Z",
-          "url": "https://x.com/TruthGundlach/status/2039833860155052342",
-          "likes": 318,
-          "retweets": 32,
+          "id": "2040268738617098600",
+          "text": "Hearing narratives about Private Credit firms about to make a killing as loans get sold at fire sale prices and they are going to “pick up the pieces”.\n\nThey Are Going To Be The Sellers At Fire Sale Prices.\n\nThey own them at 100.\n\nWake up people!",
+          "createdAt": "2026-04-04T03:22:28.000Z",
+          "url": "https://x.com/TruthGundlach/status/2040268738617098600",
+          "likes": 486,
+          "retweets": 60,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2039719748020371707",
-          "text": "On the Julia LaRoche show 1 week ago I predicted the next round of Private Credit redemption requests would be a multiple of the last one (which led to gating in some cases).\n\nCheck out today’s headlines.",
-          "createdAt": "2026-04-02T15:00:58.000Z",
-          "url": "https://x.com/TruthGundlach/status/2039719748020371707",
-          "likes": 676,
-          "retweets": 61,
+          "id": "2040263429773242389",
+          "text": "In 2007, I was sitting on a large amount of undrawn commitments to invest in bombed out MBS securities.\n\nDidn’t invest at all until 2008, didn’t get fully invested until March 2009.\n\nIt’s 2007 for Private Credit.\n\nCome home to DoubleLine.",
+          "createdAt": "2026-04-04T03:01:22.000Z",
+          "url": "https://x.com/TruthGundlach/status/2040263429773242389",
+          "likes": 991,
+          "retweets": 94,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         }
       ]
+    },
+    {
+      "source": "x",
+      "name": "David Einhorn",
+      "handle": "davidein",
+      "role": "Greenlight Capital",
+      "bio": "president of greenlight capital",
+      "tweets": [
+        {
+          "id": "2040118919336173791",
+          "text": "The future is Ai.  We have been public for a decade and no sell side research analyst has ever seemed to figure this out. https://t.co/OkAmskzYy0",
+          "createdAt": "2026-04-03T17:27:08.000Z",
+          "url": "https://x.com/davidein/status/2040118919336173791",
+          "likes": 65,
+          "retweets": 3,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2035490973220733192"
+        }
+      ]
     }
   ],
   "stats": {
-    "xInvestors": 8,
-    "totalTweets": 24
+    "xInvestors": 9,
+    "totalTweets": 17
   }
 }
