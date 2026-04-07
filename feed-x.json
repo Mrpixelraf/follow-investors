@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-06T09:44:58.992Z",
+  "generatedAt": "2026-04-07T09:40:23.047Z",
   "lookbackHours": 48,
   "x": [],
   "stats": {
@@ -7,20 +7,21 @@
     "totalTweets": 0
   },
   "errors": [
-    "X API: @RayDalio HTTP 402",
-    "X API: @HowardMarksBook HTTP 402",
-    "X API: @BillAckman HTTP 402",
-    "X API: @chamath HTTP 402",
-    "X API: @CathieDWood HTTP 402",
-    "X API: @CliffordAsness HTTP 402",
-    "X API: @michaeljburry HTTP 402",
-    "X API: @RaoulGMI HTTP 402",
-    "X API: @LukeGromen HTTP 402",
-    "X API: @LynAldenContact HTTP 402",
-    "X API: @biancoresearch HTTP 402",
-    "X API: @TruthGundlach HTTP 402",
-    "X API: @davidein HTTP 402",
-    "X API: @jimchanos HTTP 402",
-    "X API: @SDruckenmiller HTTP 402"
+    "X API: User lookup failed: HTTP 402 {\"account_id\":2036085358878748672,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2036085358878748672] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}",
+    "Skipped @RayDalio: user not found",
+    "Skipped @HowardMarksBook: user not found",
+    "Skipped @BillAckman: user not found",
+    "Skipped @chamath: user not found",
+    "Skipped @CathieDWood: user not found",
+    "Skipped @CliffordAsness: user not found",
+    "Skipped @michaeljburry: user not found",
+    "Skipped @RaoulGMI: user not found",
+    "Skipped @LukeGromen: user not found",
+    "Skipped @LynAldenContact: user not found",
+    "Skipped @biancoresearch: user not found",
+    "Skipped @TruthGundlach: user not found",
+    "Skipped @davidein: user not found",
+    "Skipped @jimchanos: user not found",
+    "Skipped @SDruckenmiller: user not found"
   ]
 }
