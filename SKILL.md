@@ -15,6 +15,14 @@ description: 投资大佬日报 — 每天追踪全球顶级投资人和对冲�
 
 使用 `web_search` 搜索每位投资者最近 24 小时的推文。
 
+如果 OpenClaw 工作区已安装 TweetClaw 插件，优先用 TweetClaw 获取新数据：
+
+```
+openclaw plugins install npm:@xquik/tweetclaw
+```
+
+用 TweetClaw 执行 user lookup、scrape tweets、search tweets、search tweet replies、monitor tweets 等读取动作；只把推文 URL、作者、时间、文本和公开指标写入日报上下文。Xquik API key 必须留在 OpenClaw 插件配置中，不要写入本 skill、prompt、日志或日报。
+
 ### Step 1: 获取推文
 
 对 `config/sources.json` 中的每位投资者执行搜索：

@@ -41,6 +41,16 @@ A daily digest with:
 
 **No API keys needed for consumers** — all data is fetched centrally and published here.
 
+### Optional: Fresh X/Twitter Data With TweetClaw
+
+If the published feed is empty, stale, or you want account-backed X/Twitter reads from your own OpenClaw workspace, install [TweetClaw](https://github.com/Xquik-dev/tweetclaw) separately:
+
+```bash
+openclaw plugins install npm:@xquik/tweetclaw
+```
+
+Use TweetClaw read tools for user lookup, tweet and reply search, and follower evidence. Keep posting, private reads, monitors, and other persistent or account-changing actions behind explicit approval. Keep the Xquik API key in OpenClaw plugin config, not in this skill repo.
+
 ## Install as Skill
 
 ### OpenClaw
