@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T11:20:39.028Z",
+  "generatedAt": "2026-06-25T11:10:44.586Z",
   "lookbackHours": 48,
   "x": [],
   "stats": {
@@ -7,7 +7,7 @@
     "totalTweets": 0
   },
   "errors": [
-    "X API: User lookup failed: HTTP 402 {\"account_id\":2036085358878748672,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2036085358878748672] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/problems/credits\"}",
+    "X API: User lookup failed: HTTP 402 {\"detail\":\"credits depleted\",\"status\":402,\"title\":\"Payment Required\",\"type\":\"https://api.x.com/2/problems/credits-depleted\"}",
     "Skipped @RayDalio: user not found",
     "Skipped @HowardMarksBook: user not found",
     "Skipped @BillAckman: user not found",
