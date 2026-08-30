@@ -39,6 +39,16 @@ async function saveState(state) {
   await writeFile(STATE_PATH, JSON.stringify(state, null, 2));
 }
 
+async function summarizeXApiError(res) {
+  try {
+    const body = JSON.parse(await res.text());
+    const title = typeof body.title === 'string' ? ` ${body.title}` : '';
+    return `HTTP ${res.status}${title}`;
+  } catch {
+    return `HTTP ${res.status}`;
+  }
+}
+
 // -- Main --------------------------------------------------------------------
 
 async function main() {
@@ -67,7 +77,7 @@ async function main() {
         { headers: { 'Authorization': `Bearer ${bearerToken}` } }
       );
       if (!res.ok) {
-        errors.push(`X API: User lookup failed: HTTP ${res.status} ${await res.text()}`);
+        errors.push(`X API: User lookup failed: ${await summarizeXApiError(res)}`);
         continue;
       }
       const data = await res.json();
@@ -111,7 +121,7 @@ async function main() {
           errors.push(`X API: Rate limited, stopping`);
           break;
         }
-        errors.push(`X API: @${account.handle} HTTP ${res.status}`);
+        errors.push(`X API: @${account.handle} ${await summarizeXApiError(res)}`);
         continue;
       }
 
